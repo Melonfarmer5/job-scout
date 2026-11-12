@@ -1,0 +1,250 @@
+[
+ {
+  "name": "Moody's",
+  "note": "careers.moodys.com branded front end (Radancy-style URLs); no myworkdayjobs URL surfaced in 2 searches; backend ATS not identified (could front Workday)"
+ },
+ {
+  "name": "KKR",
+  "note": "kkr.com careers with gh_src parameter = Greenhouse"
+ },
+ {
+  "name": "Chubb",
+  "note": "chubb.com / about.chubb.com careers pages; backend ATS not identified; chubbfiresecurity.wd3 is an unrelated company (Chubb Fire & Security)"
+ },
+ {
+  "name": "BNY (Bank of New York Mellon)",
+  "note": "Oracle Recruiting Cloud (site BNY-Careers)"
+ },
+ {
+  "name": "Goldman Sachs",
+  "note": "Own site higher.gs.com"
+ },
+ {
+  "name": "American Express",
+  "note": "Own careers site; backend ATS not identified"
+ },
+ {
+  "name": "Major League Baseball",
+  "note": "Greenhouse (board mlbevents) and TeamWork Online (teamworkonline.com). Individual clubs (Mets: sterlingmets.wd5 site Mets; Braves, Rangers, Cubs) have their own Workday tenants"
+ },
+ {
+  "name": "Est\u00e9e Lauder Companies",
+  "note": "elcompanies.com / jobs.elcompanies.com; backend ATS not identified"
+ },
+ {
+  "name": "Colgate-Palmolive",
+  "note": "jobs.colgate.com (SuccessFactors-style /go/ URL pattern)"
+ },
+ {
+  "name": "PepsiCo",
+  "note": "pepsicojobs.com / pepsico.jibeapply.com (Jibe/iCIMS front end). pbv.wd503 is Pepsi Bottling Ventures, a different company"
+ },
+ {
+  "name": "Macy's",
+  "note": "Oracle Recruiting Cloud (site CX_1001)"
+ },
+ {
+  "name": "Hearst",
+  "note": "Oracle Recruiting Cloud (CX_1; Magazines CX_9/CX_11); also a Greenhouse board \"hearst\""
+ },
+ {
+  "name": "Associated Press",
+  "note": "SAP SuccessFactors (company=associated). ap.wd12.myworkdayjobs.com/AP_Careers surfaced but its roles (Safety Manager, Project Coordinator) do not look like Associated Press - treat as a different company"
+ },
+ {
+  "name": "Deloitte",
+  "note": "US uses apply.deloitte.com (Avature-style). Workday tenants exist only for other member firms (deloitteie.wd3 Ireland; fina.wd103 France)"
+ },
+ {
+  "name": "KPMG",
+  "note": "kpmguscareers.com; backend ATS not identified"
+ },
+ {
+  "name": "EY",
+  "note": "ey.com job search / usearlycareers.ey.com; backend ATS not identified"
+ },
+ {
+  "name": "McKinsey",
+  "note": "Own site mckinsey.com/careers"
+ },
+ {
+  "name": "Take-Two Interactive",
+  "note": "Greenhouse (board taketwo)"
+ },
+ {
+  "name": "WPP",
+  "note": "Greenhouse (boards wpp, wppmedia, greyus, vmlenterprisesolutions)"
+ },
+ {
+  "name": "Peloton",
+  "note": "Greenhouse (board peloton)"
+ },
+ {
+  "name": "Equinox",
+  "note": "careers.equinox.com (Radancy-style front end); backend ATS not identified (could front Workday; no myworkdayjobs URL surfaced)"
+ },
+ {
+  "name": "McGraw Hill",
+  "note": "careers.mheducation.com; backend ATS not identified"
+ },
+ {
+  "name": "Pearson",
+  "note": "Oracle Recruiting Cloud (CX_2) behind pearson.jobs"
+ },
+ {
+  "name": "NYU Langone Health",
+  "note": "jobs.nyulangone.org; backend not identified. NOTE nyuhs.wd12 (nyuhscareers1) is United Health Services (Binghamton), NOT NYU Langone - verified by page fetch"
+ },
+ {
+  "name": "Mount Sinai Health System",
+  "note": "careers.mountsinai.org; an Oracle Recruiting Cloud site (ejis.fa.us6.oraclecloud.com) also surfaced. msmc.wd12 is Mount Sinai Medical Center Miami Beach, a different organisation"
+ },
+ {
+  "name": "Mount Sinai",
+  "note": "Duplicate of Mount Sinai Health System entry"
+ },
+ {
+  "name": "Northwell Health",
+  "note": "jobs.northwell.edu; backend ATS not identified"
+ },
+ {
+  "name": "Columbia University",
+  "note": "opportunities.columbia.edu (own staff jobs site)"
+ },
+ {
+  "name": "New York University",
+  "note": "iCIMS (uscareers-nyu.icims.com)"
+ },
+ {
+  "name": "Cognizant",
+  "note": "Own site careers.cognizant.com. collaborative.wd1 is Collaborative Solutions (a Cognizant subsidiary) only"
+ },
+ {
+  "name": "Evercore",
+  "note": "Oleeo (evercore.tal.net)"
+ },
+ {
+  "name": "Bloomberg",
+  "note": "Avature. bloomberg.wd1 site Bloombergindustrygroup_External_Career_Site is Bloomberg Industry Group (DC subsidiary) only"
+ },
+ {
+  "name": "Squarespace",
+  "note": "Own careers pages on squarespace.com; backend ATS not identified"
+ },
+ {
+  "name": "Datadog",
+  "note": "Greenhouse (board datadog)"
+ },
+ {
+  "name": "Oscar Health",
+  "note": "Greenhouse (board oscar)"
+ },
+ {
+  "name": "Flatiron Health",
+  "note": "Greenhouse (several Flatiron Health boards)"
+ },
+ {
+  "name": "Spotify",
+  "note": "Lever (jobs.lever.co/spotify), front end lifeatspotify.com"
+ },
+ {
+  "name": "Compass",
+  "note": "Greenhouse (board urbancompass)"
+ },
+ {
+  "name": "Foot Locker",
+  "note": "careers.footlocker.com; backend ATS not identified. Foot Locker legal roles also appear on dickssportinggoods.wd1 site DSG (parent Dick's Sporting Goods)"
+ },
+ {
+  "name": "Tiffany & Co.",
+  "note": "Oracle Recruiting Cloud"
+ },
+ {
+  "name": "L'Or\u00e9al USA",
+  "note": "careers.loreal.com (Radancy-style front end); backend ATS not identified"
+ },
+ {
+  "name": "LVMH",
+  "note": "Own site lvmh.com/join-us; some maisons on SmartRecruiters"
+ },
+ {
+  "name": "Audible",
+  "note": "audiblecareers.com (Amazon subsidiary; Radancy-style front end)"
+ },
+ {
+  "name": "Vornado",
+  "note": "Only vno.com careers page surfaced; ATS not identified"
+ },
+ {
+  "name": "Related Companies",
+  "note": "Only related.com careers page surfaced; ATS not identified"
+ },
+ {
+  "name": "CBRE",
+  "note": "careers.cbre.com (Avature-style URLs)"
+ },
+ {
+  "name": "Con Edison",
+  "note": "careers.coned.com; backend ATS not identified"
+ },
+ {
+  "name": "JetBlue",
+  "note": "careers.jetblue.com (SuccessFactors-style job URLs)"
+ },
+ {
+  "name": "Delta",
+  "note": "Avature"
+ },
+ {
+  "name": "MetLife",
+  "note": "No MetLife Workday site surfaced in 2 domain-restricted searches (only pinebridge.wd5, a MetLife-acquired asset manager)"
+ },
+ {
+  "name": "Marsh McLennan",
+  "note": "No Workday site surfaced in 2 domain-restricted searches"
+ },
+ {
+  "name": "New York Life",
+  "note": "Only aggregator listings surfaced; no ATS URL seen"
+ },
+ {
+  "name": "Equitable",
+  "note": "No Workday site surfaced in 2 domain-restricted searches"
+ },
+ {
+  "name": "Paramount",
+  "note": "No Paramount Workday site surfaced in 2 domain-restricted searches"
+ },
+ {
+  "name": "NBCUniversal",
+  "note": "Only parent Comcast's site surfaced (tenant comcast, site Comcast_Careers, seen on both wd5 and wd115 - newest req IDs on wd115). No NBCU-branded postings confirmed there; NBCU may use a separate system"
+ },
+ {
+  "name": "Madison Square Garden Entertainment",
+  "note": "No MSG Workday site found. mssg.wd503 (site MSSG) is Main Street Sports Group, NOT MSG - verified by page fetch"
+ },
+ {
+  "name": "Ralph Lauren",
+  "note": "No Ralph Lauren Workday site surfaced in 2 domain-restricted searches"
+ },
+ {
+  "name": "Zoom",
+  "note": "No Zoom Workday site surfaced in 2 domain-restricted searches"
+ },
+ {
+  "name": "Nike",
+  "note": "No Nike Workday site surfaced in 2 domain-restricted searches"
+ },
+ {
+  "name": "Jefferies",
+  "note": "No Jefferies Workday site surfaced in 2 domain-restricted searches"
+ },
+ {
+  "name": "Lazard",
+  "note": "No Lazard Workday site surfaced in 2 domain-restricted searches"
+ },
+ {
+  "name": "Sirius XM",
+  "note": "No SiriusXM Workday site surfaced in 2 domain-restricted searches"
+ }
+]

@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Job Scout</title>
+<style>
+:root{--bg:#f5f6f2;--surface:#fff;--fg:#1d2420;--muted:#5d6862;--line:#dde2dc;--accent:#2f6b4f;--accent-soft:#e2efe7;
+  --applied:#2d5f8a;--applied-soft:#e1ecf5;--warn:#9a4b3c;--warn-soft:#f6e6e2}
+@media (prefers-color-scheme:dark){:root{--bg:#141a17;--surface:#1c2420;--fg:#e6ebe7;--muted:#9aa69f;--line:#2c3631;
+  --accent:#7cc4a0;--accent-soft:#1f3a2d;--applied:#8fbde3;--applied-soft:#1d2f40;--warn:#e39a88;--warn-soft:#3a2420;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding:24px 16px 56px}
+.wrap{max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+h1{font:600 30px Georgia,serif;margin:0}
+.sub{color:var(--muted);margin:4px 0 0;font-size:14px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.chip{font:inherit;font-size:13px;font-weight:600;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.chip[aria-pressed=true]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.chip .n{font-weight:500;opacity:.7}
+input[type=search]{flex:1;min-width:160px;font:inherit;padding:7px 12px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.list{display:flex;flex-direction:column;gap:10px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.card.applied{border-left:4px solid var(--applied)}
+.card.hidden-job{opacity:.55}
+.top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.title{font-weight:600;font-size:16px;color:var(--fg);text-decoration:none;overflow-wrap:anywhere}
+.title:hover{text-decoration:underline}
+.meta{color:var(--muted);font-size:13px;overflow-wrap:anywhere}
+.tag{font-size:12px;font-weight:600;padding:2px 8px;border-radius:6px;white-space:nowrap}
+.tag.new{background:var(--accent-soft);color:var(--accent)}
+.tag.why{background:var(--warn-soft);color:var(--warn);white-space:normal}
+.btn{font:inherit;font-size:13px;font-weight:600;padding:5px 10px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--fg);cursor:pointer}
+.btn.on{background:var(--applied-soft);border-color:var(--applied);color:var(--applied)}
+.empty{color:var(--muted);text-align:center;padding:36px 12px;border:1px dashed var(--line);border-radius:10px}
+.foot{font-size:12px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Job Scout</h1>
+    <p class="sub" id="sub">Loading…</p>
+  </header>
+  <div class="bar" role="group" aria-label="View">
+    <button class="chip" data-v="todo" aria-pressed="true">To review <span class="n" id="n-todo"></span></button>
+    <button class="chip" data-v="applied" aria-pressed="false">Applied <span class="n" id="n-applied"></span></button>
+    <button class="chip" data-v="hidden" aria-pressed="false">Passed <span class="n" id="n-hidden"></span></button>
+    <button class="chip" data-v="skipped" aria-pressed="false">Filtered out <span class="n" id="n-skipped"></span></button>
+    <button class="chip" data-v="problems" aria-pressed="false">Problems <span class="n" id="n-problems"></span></button>
+  </div>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Search company or title" aria-label="Search">
+    <button class="chip" id="fresh" aria-pressed="false">New this week only</button>
+  </div>
+  <div class="list" id="list"></div>
+  <p class="foot">Applied and Passed marks are saved in this browser only. Jobs come straight from each company's own hiring system.</p>
+</div>
+<script>
+let data={matches:[],skipped:[],problems:[]},view="todo",q="",freshOnly=false;
+const KEY="jobscout-marks-v1";
+let marks={};try{marks=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){}
+function saveMarks(){try{localStorage.setItem(KEY,JSON.stringify(marks))}catch(e){}}
+function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function safeUrl(u){return /^https:\/\//.test(u||"")?u:"#"}
+function state(j){return marks[j.key]||""}
+function card(j,extra){
+  const st=state(j);
+  return `<article class="card ${st==="applied"?"applied":""} ${st==="hidden"?"hidden-job":""}" data-key="${esc(j.key)}">
+    <div class="top"><div style="min-width:0">
+      <a class="title" href="${esc(safeUrl(j.url))}" target="_blank" rel="noopener">${esc(j.title)}</a>
+      <div class="meta">${esc(j.company)} · ${esc(j.location||"Location n/a")} · ${esc(j.salary)}${j.years?" · asks "+esc(j.years)+"+ yrs":""}${j.posted?" · posted "+esc(j.posted):j.first_seen?" · first seen "+esc(j.first_seen):""}</div>
+    </div>${j.fresh?'<span class="tag new">New</span>':""}</div>
+    ${extra||""}
+    <div class="bar">
+      <button class="btn ${st==="applied"?"on":""}" data-a="applied">${st==="applied"?"✓ Applied":"Mark applied"}</button>
+      <button class="btn" data-a="hidden">${st==="hidden"?"Undo pass":"Pass"}</button>
+    </div></article>`}
+function render(){
+  const m=data.matches,match=j=>!q||(j.company+" "+j.title).toLowerCase().includes(q);
+  const sets={todo:m.filter(j=>!state(j)),applied:m.concat(data.skipped).filter(j=>state(j)==="applied"),
+    hidden:m.filter(j=>state(j)==="hidden"),skipped:data.skipped.filter(j=>state(j)!=="applied")};
+  for(const k in sets)document.getElementById("n-"+k).textContent=sets[k].length;
+  document.getElementById("n-problems").textContent=data.problems.length;
+  const list=document.getElementById("list");
+  if(view==="problems"){
+    list.innerHTML=data.problems.length?data.problems.map(p=>`<article class="card"><div class="title">${esc(p.company)}</div><div class="meta">${esc(p.ats)} feed could not be read: ${esc(p.error)}</div></article>`).join("")
+      :'<div class="empty">Every company feed loaded.</div>';return}
+  let rows=sets[view].filter(match);if(freshOnly)rows=rows.filter(j=>j.fresh);
+  list.innerHTML=rows.length?rows.map(j=>card(j,j.reason&&view==="skipped"?`<div><span class="tag why">${esc(j.reason)}</span></div>`:"")).join("")
+    :'<div class="empty">Nothing here.</div>'}
+document.getElementById("list").addEventListener("click",e=>{
+  const b=e.target.closest(".btn");if(!b)return;const key=b.closest(".card").dataset.key,a=b.dataset.a;
+  if(marks[key]===a)delete marks[key];else marks[key]=a;saveMarks();render()});
+document.querySelectorAll("[data-v]").forEach(c=>c.addEventListener("click",()=>{view=c.dataset.v;
+  document.querySelectorAll("[data-v]").forEach(x=>x.setAttribute("aria-pressed",x===c));render()}));
+document.getElementById("q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render()});
+document.getElementById("fresh").addEventListener("click",e=>{freshOnly=!freshOnly;e.currentTarget.setAttribute("aria-pressed",freshOnly);render()});
+fetch("jobs.json?"+Date.now()).then(r=>r.json()).then(d=>{data=d;
+  const when=new Date(d.generated).toLocaleString(undefined,{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
+  document.getElementById("sub").textContent=`Checked ${d.companies_checked} of ${d.companies_total} companies (${d.postings_scanned.toLocaleString()} postings). Last run ${when}.`;
+  render()}).catch(()=>{document.getElementById("sub").textContent="No results yet. The first scan has not finished.";render()});
+</script>
+</body>
+</html>
