@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-13T03:33:45+00:00",
- "companies_checked": 278,
+ "generated": "2026-11-13T18:40:39+00:00",
+ "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 36839,
+ "postings_scanned": 36197,
  "matches": [
   {
    "key": "workday:Wiley:Senior-Manager--AI-Training---Enablement_R2601581",
@@ -245,12 +245,12 @@
    "fresh": true
   },
   {
-   "key": "greenhouse:Braze:8337945",
+   "key": "greenhouse:Braze:8373965",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
-   "location": "New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
+   "location": "San Francisco; New York City",
    "posted": "2026-11-10",
    "salary_min": 101000,
    "salary_max": 160000,
@@ -261,12 +261,12 @@
    "fresh": true
   },
   {
-   "key": "greenhouse:Braze:8373965",
+   "key": "greenhouse:Braze:8337945",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
-   "location": "San Francisco; New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
+   "location": "New York City",
    "posted": "2026-11-10",
    "salary_min": 101000,
    "salary_max": 160000,
@@ -1429,22 +1429,6 @@
    "fresh": false
   },
   {
-   "key": "lever:Shield AI:f21958f6-c5a7-45de-b5b3-23391336c45e",
-   "company": "Shield AI",
-   "ats": "lever",
-   "title": "Staff Organizational Change Management Specialist (R6184)",
-   "url": "https://jobs.lever.co/shieldai/f21958f6-c5a7-45de-b5b3-23391336c45e",
-   "location": "Remote; San Diego, California; US",
-   "posted": "2026-10-03",
-   "salary_min": 130000,
-   "salary_max": 190000,
-   "salary": "$130k–190k",
-   "years": null,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "ashby:Rogo:7165c40e-ef99-4df8-ab9f-63f98b447975",
    "company": "Rogo",
    "ats": "ashby",
@@ -1493,22 +1477,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Duolingo:8858333002",
-   "company": "Duolingo",
-   "ats": "greenhouse",
-   "title": "Proctor Quality and Learning Manager, Scaling Operations",
-   "url": "https://careers.duolingo.com/jobs/8858333002?gh_jid=8858333002",
-   "location": "London, England; New York, NY; Pittsburgh, PA",
-   "posted": "2026-09-30",
-   "salary_min": 90630,
-   "salary_max": 122617,
-   "salary": "$91k–123k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Duolingo:8858331002",
    "company": "Duolingo",
    "ats": "greenhouse",
@@ -1519,6 +1487,22 @@
    "salary_min": 142800,
    "salary_max": 193200,
    "salary": "$143k–193k",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Duolingo:8858333002",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Proctor Quality and Learning Manager, Scaling Operations",
+   "url": "https://careers.duolingo.com/jobs/8858333002?gh_jid=8858333002",
+   "location": "London, England; New York, NY; Pittsburgh, PA",
+   "posted": "2026-09-30",
+   "salary_min": 90630,
+   "salary_max": 122617,
+   "salary": "$91k–123k",
    "years": null,
    "where": "nyc",
    "first_seen": "",
@@ -1653,22 +1637,6 @@
    "fresh": false
   },
   {
-   "key": "workday:Cerity Partners:Digital-Enablement---AI-Specialist_R923",
-   "company": "Cerity Partners",
-   "ats": "workday",
-   "title": "Digital Enablement & AI Specialist",
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Digital-Enablement---AI-Specialist_R923",
-   "location": "New York City, NY; Remote; United States of America",
-   "posted": "2026-09-22",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 5,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Anthropic:5428790008",
    "company": "Anthropic",
    "ats": "greenhouse",
@@ -1777,22 +1745,6 @@
    "salary": "Not listed",
    "years": 2,
    "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:Gusto:8128422",
-   "company": "Gusto",
-   "ats": "greenhouse",
-   "title": "Senior L&D Specialist",
-   "url": "https://job-boards.greenhouse.io/gusto/jobs/8128422",
-   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Denver, CO - Hybrid",
-   "posted": "2026-09-04",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 5,
-   "where": "nyc",
    "first_seen": "",
    "fresh": false
   },
@@ -2749,21 +2701,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Affirm:8043921003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Leadership Development Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043921003",
-   "location": "Remote US; Remote Canada",
-   "posted": "2026-11-03",
-   "salary_min": 128000,
-   "salary_max": 205000,
-   "salary": "$128k–205k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "greenhouse:Affirm:8043923003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -2774,6 +2711,21 @@
    "salary_min": 112000,
    "salary_max": 172000,
    "salary": "$112k–172k",
+   "years": 8,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "greenhouse:Affirm:8043921003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Leadership Development Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043921003",
+   "location": "Remote US; Remote Canada",
+   "posted": "2026-11-03",
+   "salary_min": 128000,
+   "salary_max": 205000,
+   "salary": "$128k–205k",
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (asks for 8+ years)"
@@ -3334,12 +3286,12 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Braze:8192090",
+   "key": "greenhouse:Braze:8233252",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Talent Development Operations & Program Specialist",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8192090",
-   "location": "New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8233252",
+   "location": "Chicago; New York City",
    "posted": "2026-09-25",
    "salary_min": 67000,
    "salary_max": 90000,
@@ -3349,12 +3301,12 @@
    "reason": "Pay too low (tops out at $90k)"
   },
   {
-   "key": "greenhouse:Braze:8233252",
+   "key": "greenhouse:Braze:8192090",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Talent Development Operations & Program Specialist",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8233252",
-   "location": "Chicago; New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8192090",
+   "location": "New York City",
    "posted": "2026-09-25",
    "salary_min": 67000,
    "salary_max": 90000,
@@ -3637,11 +3589,6 @@
  "problems": [
   {
    "company": "Bilt Rewards",
-   "ats": "greenhouse",
-   "error": "HTTP 404"
-  },
-  {
-   "company": "BuzzFeed",
    "ats": "greenhouse",
    "error": "HTTP 404"
   },

@@ -1,5 +1,5 @@
-JOB SCOUT FEED generated 2026-11-13T03:33:45+00:00
-Checked 278 of 292 companies. 147 open matches, 27 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-13T18:40:39+00:00
+Checked 279 of 292 companies. 144 open matches, 27 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-12 | Wiley | Senior Manager, AI Training & Enablement | Hoboken (HQ), NJ, USA; Remote, Weinheim, DEU; Remote, VA, USA; Weinheim, DEU; London, GBR; Cary, NC, USA; Remote, NC, USA; Remote, NJ, USA; Remote, NY, USA; Oxford, GBR; Remote, MA, USA; Hybrid; United States of America | $89k–128k | 5+ yrs | https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Manager--AI-Training---Enablement_R2601581
@@ -17,8 +17,8 @@ Each line: posted date | company | title | location | salary | years asked | url
 2026-11-10 | Navan | Senior Manager - North America Field Enablement | New York, NY; San Francisco, CA; New York City | $142k–190k | 5+ yrs | https://navan.com/careers/openings?gh_jid=8369935
 2026-11-10 | Clay | CX Enablement (Growth Strategy) | New York; Remote; United States | $145k–185k | 4+ yrs | https://jobs.ashbyhq.com/claylabs/4ad300ac-8c5f-4485-95d9-f1e9377c2243
 2026-11-10 | Chime | Senior Training Lead | Remote, USA; Remote - US | $130k–180k | yrs n/a | https://boards.greenhouse.io/chime/jobs/8928783002?gh_jid=8928783002
-2026-11-10 | Braze | Product Enablement Manager | New York City | $101k–160k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8337945
 2026-11-10 | Braze | Product Enablement Manager | San Francisco; New York City | $101k–160k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8373965
+2026-11-10 | Braze | Product Enablement Manager | New York City | $101k–160k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8337945
 2026-11-10 | Braze | Product Enablement Manager | Chicago; New York City | $96k–150k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8373990
 2026-11-09 | Fox Corporation | News Trainee, 6-Month Training Program | New York, New York, USA; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/News-Trainee--6-Month-Training-Program_R50034263
 2026-11-09 | EliseAI | GTM Product Enablement Manager | Housing | New York City; Boston; United States | $150k–190k | yrs n/a | https://jobs.ashbyhq.com/EliseAI/ab2130bc-ec9a-46be-a609-61794072dd3d
