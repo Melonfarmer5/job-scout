@@ -1,23 +1,55 @@
 {
- "generated": "2026-11-13T18:40:39+00:00",
- "companies_checked": 279,
+ "generated": "2026-11-14T03:27:17+00:00",
+ "companies_checked": 230,
  "companies_total": 292,
- "postings_scanned": 36197,
+ "postings_scanned": 28592,
  "matches": [
   {
-   "key": "workday:Wiley:Senior-Manager--AI-Training---Enablement_R2601581",
-   "company": "Wiley",
-   "ats": "workday",
-   "title": "Senior Manager, AI Training & Enablement",
-   "url": "https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Manager--AI-Training---Enablement_R2601581",
-   "location": "Hoboken (HQ), NJ, USA; Remote, Weinheim, DEU; Remote, VA, USA; Weinheim, DEU; London, GBR; Cary, NC, USA; Remote, NC, USA; Remote, NJ, USA; Remote, NY, USA; Oxford, GBR; Remote, MA, USA; Hybrid; United States of America",
-   "posted": "2026-11-12",
-   "salary_min": 89100,
-   "salary_max": 127700,
-   "salary": "$89k–128k",
-   "years": 5,
+   "key": "ashby:Harvey:06f19e6b-f817-41ea-9c54-94d865f88428",
+   "company": "Harvey",
+   "ats": "ashby",
+   "title": "Program Manager, Customer Education",
+   "url": "https://jobs.ashbyhq.com/harvey/06f19e6b-f817-41ea-9c54-94d865f88428",
+   "location": "San Francisco; Remote; USA",
+   "posted": "2026-11-14",
+   "salary_min": 120900,
+   "salary_max": 166200,
+   "salary": "$121k–166k",
+   "years": null,
+   "where": "remote-us",
+   "first_seen": "2026-11-14",
+   "fresh": true
+  },
+  {
+   "key": "ashby:Harvey:8933bce6-f85b-4a74-9530-d5c8916af055",
+   "company": "Harvey",
+   "ats": "ashby",
+   "title": "Program Manager, Customer Education",
+   "url": "https://jobs.ashbyhq.com/harvey/8933bce6-f85b-4a74-9530-d5c8916af055",
+   "location": "New York; Remote; USA",
+   "posted": "2026-11-14",
+   "salary_min": 120900,
+   "salary_max": 166200,
+   "salary": "$121k–166k",
+   "years": null,
    "where": "nyc",
-   "first_seen": "",
+   "first_seen": "2026-11-14",
+   "fresh": true
+  },
+  {
+   "key": "ashby:Abridge:5b66aac3-cb7a-4bbc-a28c-9fb38cf16656",
+   "company": "Abridge",
+   "ats": "ashby",
+   "title": "Member of Product Staff, Foundation Models & Post-Training",
+   "url": "https://jobs.ashbyhq.com/Abridge/5b66aac3-cb7a-4bbc-a28c-9fb38cf16656",
+   "location": "SF Office; Remote; USA",
+   "posted": "2026-11-13",
+   "salary_min": 250000,
+   "salary_max": 290000,
+   "salary": "$250k–290k",
+   "years": 7,
+   "where": "remote-us",
+   "first_seen": "2026-11-14",
    "fresh": true
   },
   {
@@ -33,22 +65,6 @@
    "salary": "$94k–142k",
    "years": 5,
    "where": "remote-us",
-   "first_seen": "",
-   "fresh": true
-  },
-  {
-   "key": "workday:S&P Global:Learning-Partner_332553-1",
-   "company": "S&P Global",
-   "ats": "workday",
-   "title": "Learning Partner",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Learning-Partner_332553-1",
-   "location": "New York, NY; United States of America",
-   "posted": "2026-11-12",
-   "salary_min": 104435,
-   "salary_max": 142000,
-   "salary": "$104k–142k",
-   "years": null,
-   "where": "nyc",
    "first_seen": "",
    "fresh": true
   },
@@ -245,16 +261,16 @@
    "fresh": true
   },
   {
-   "key": "greenhouse:Braze:8373965",
+   "key": "greenhouse:Braze:8373990",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
-   "location": "San Francisco; New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
+   "location": "Chicago; New York City",
    "posted": "2026-11-10",
-   "salary_min": 101000,
-   "salary_max": 160000,
-   "salary": "$101k–160k",
+   "salary_min": 96000,
+   "salary_max": 150000,
+   "salary": "$96k–150k",
    "years": 7,
    "where": "nyc",
    "first_seen": "",
@@ -277,33 +293,17 @@
    "fresh": true
   },
   {
-   "key": "greenhouse:Braze:8373990",
+   "key": "greenhouse:Braze:8373965",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
-   "location": "Chicago; New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
+   "location": "San Francisco; New York City",
    "posted": "2026-11-10",
-   "salary_min": 96000,
-   "salary_max": 150000,
-   "salary": "$96k–150k",
+   "salary_min": 101000,
+   "salary_max": 160000,
+   "salary": "$101k–160k",
    "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": true
-  },
-  {
-   "key": "workday:Fox Corporation:News-Trainee--6-Month-Training-Program_R50034263",
-   "company": "Fox Corporation",
-   "ats": "workday",
-   "title": "News Trainee, 6-Month Training Program",
-   "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/News-Trainee--6-Month-Training-Program_R50034263",
-   "location": "New York, New York, USA; United States of America",
-   "posted": "2026-11-09",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": null,
    "where": "nyc",
    "first_seen": "",
    "fresh": true
@@ -354,7 +354,7 @@
    "years": 4,
    "where": "remote-us",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Zocdoc:8346399",
@@ -370,7 +370,7 @@
    "years": 5,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Ridgeline:8197847003",
@@ -386,7 +386,7 @@
    "years": 5,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Gong:4725063006",
@@ -402,7 +402,7 @@
    "years": 4,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:Clio:Enablement---Engagement-Manager--Academic-Partnerships_REQ-5570",
@@ -418,7 +418,7 @@
    "years": 3,
    "where": "remote-us",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Asana:8311518",
@@ -434,7 +434,7 @@
    "years": 4,
    "where": "remote-us",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:OpenAI:654f8dde-2ccb-4349-aeb7-40f454f28cce",
@@ -444,9 +444,9 @@
    "url": "https://jobs.ashbyhq.com/openai/654f8dde-2ccb-4349-aeb7-40f454f28cce",
    "location": "San Francisco; Remote; United States",
    "posted": "2026-11-05",
-   "salary_min": 210000,
-   "salary_max": 280000,
-   "salary": "$210k–280k",
+   "salary_min": 207000,
+   "salary_max": 295000,
+   "salary": "$207k–295k",
    "years": null,
    "where": "remote-us",
    "first_seen": "",
@@ -629,22 +629,6 @@
    "fresh": false
   },
   {
-   "key": "workday:Mizuho Americas:Client-Onboarding---Corporates-Onboarding-Team---AVP_R7512",
-   "company": "Mizuho Americas",
-   "ats": "workday",
-   "title": "Client Onboarding – Corporates Onboarding Team – AVP",
-   "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/Client-Onboarding---Corporates-Onboarding-Team---AVP_R7512",
-   "location": "NYC (1285); United States of America",
-   "posted": "2026-11-02",
-   "salary_min": 85000,
-   "salary_max": 125000,
-   "salary": "$85k–125k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "ashby:legora:8366a3af-2094-45d2-b3fe-fdcdf5dfb8a5",
    "company": "legora",
    "ats": "ashby",
@@ -805,22 +789,6 @@
    "fresh": false
   },
   {
-   "key": "workday:Fox Corporation:Programming---Executive-Assistant--FOX-Nation---Talent-Development_R50034106",
-   "company": "Fox Corporation",
-   "ats": "workday",
-   "title": "Programming & Executive Assistant, FOX Nation & Talent Development",
-   "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Programming---Executive-Assistant--FOX-Nation---Talent-Development_R50034106",
-   "location": "New York, New York, USA; Onsite; United States of America",
-   "posted": "2026-10-28",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Flatiron Health:8292596",
    "company": "Flatiron Health",
    "ats": "greenhouse",
@@ -853,22 +821,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:8009631003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
-   "location": "Remote Canada; Remote US",
-   "posted": "2026-10-27",
-   "salary_min": 128000,
-   "salary_max": 188000,
-   "salary": "$128k–188k",
-   "years": 7,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:8009629003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -879,6 +831,22 @@
    "salary_min": 146000,
    "salary_max": 225000,
    "salary": "$146k–225k",
+   "years": 7,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:8009631003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
+   "location": "Remote Canada; Remote US",
+   "posted": "2026-10-27",
+   "salary_min": 128000,
+   "salary_max": 188000,
+   "salary": "$128k–188k",
    "years": 7,
    "where": "remote-us",
    "first_seen": "",
@@ -1189,38 +1157,6 @@
    "fresh": false
   },
   {
-   "key": "workday:Guardian Life:AI-Transformation---Advisor-Enablement-Associate_R000110418",
-   "company": "Guardian Life",
-   "ats": "workday",
-   "title": "AI Transformation & Advisor Enablement Associate",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/AI-Transformation---Advisor-Enablement-Associate_R000110418",
-   "location": "New York; Hybrid - In office 3 days per week; United States of America",
-   "posted": "2026-10-12",
-   "salary_min": 82770,
-   "salary_max": 135975,
-   "salary": "$83k–136k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "workday:Guardian Life:AI-Transformation---Advisor-Experienc-Lead_R000110419",
-   "company": "Guardian Life",
-   "ats": "workday",
-   "title": "AI Transformation & Advisor Experience Lead",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/AI-Transformation---Advisor-Experienc-Lead_R000110419",
-   "location": "New York; Hybrid - In office 3 days per week; United States of America",
-   "posted": "2026-10-12",
-   "salary_min": 132420,
-   "salary_max": 217545,
-   "salary": "$132k–218k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:General Assembly:8268820",
    "company": "General Assembly",
    "ats": "greenhouse",
@@ -1296,22 +1232,6 @@
    "salary_max": 140000,
    "salary": "$120k–140k",
    "years": 6,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "ashby:amplify:dea94342-69db-4499-95c6-83ff46d0b334",
-   "company": "amplify",
-   "ats": "ashby",
-   "title": "Senior Learning Experience Designer",
-   "url": "https://jobs.ashbyhq.com/amplify/dea94342-69db-4499-95c6-83ff46d0b334",
-   "location": "Remote - United States; Remote; United States",
-   "posted": "2026-10-07",
-   "salary_min": 105000,
-   "salary_max": 125000,
-   "salary": "$105k–125k",
-   "years": 5,
    "where": "remote-us",
    "first_seen": "",
    "fresh": false
@@ -1477,22 +1397,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Duolingo:8858331002",
-   "company": "Duolingo",
-   "ats": "greenhouse",
-   "title": "Proctor Quality and Learning Manager, Scaling Operations",
-   "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002",
-   "location": "New York, NY; Pittsburgh, PA; New York, NY; Pittsburgh, PA",
-   "posted": "2026-09-30",
-   "salary_min": 142800,
-   "salary_max": 193200,
-   "salary": "$143k–193k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Duolingo:8858333002",
    "company": "Duolingo",
    "ats": "greenhouse",
@@ -1503,6 +1407,22 @@
    "salary_min": 90630,
    "salary_max": 122617,
    "salary": "$91k–123k",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Duolingo:8858331002",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Proctor Quality and Learning Manager, Scaling Operations",
+   "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002",
+   "location": "New York, NY; Pittsburgh, PA; New York, NY; Pittsburgh, PA",
+   "posted": "2026-09-30",
+   "salary_min": 142800,
+   "salary_max": 193200,
+   "salary": "$143k–193k",
    "years": null,
    "where": "nyc",
    "first_seen": "",
@@ -1642,7 +1562,7 @@
    "ats": "greenhouse",
    "title": "Sales Enablement Trainer, Claude Products",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428790008",
-   "location": "San Francisco, CA | New York City, NY; San Francisco, CA",
+   "location": "San Francisco, CA | New York City, NY; New York City, NY",
    "posted": "2026-09-22",
    "salary_min": 190000,
    "salary_max": 270000,
@@ -1813,22 +1733,6 @@
    "fresh": false
   },
   {
-   "key": "workday:AIG:AI-Sandbox-Product-Owner--GenAI_JR2601795-1",
-   "company": "AIG",
-   "ats": "workday",
-   "title": "AI Workforce Productivity Tool  Enablement Leader",
-   "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/AI-Sandbox-Product-Owner--GenAI_JR2601795-1",
-   "location": "GA-Atlanta; NY-New York; NJ-Jersey City; United States of America",
-   "posted": "2026-08-25",
-   "salary_min": 175000,
-   "salary_max": 215000,
-   "salary": "$175k–215k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "ashby:sitecore:8e16dc2e-9822-4abd-ac08-afe1a85d06cb",
    "company": "sitecore",
    "ats": "ashby",
@@ -1973,12 +1877,12 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Glean:4718549005",
+   "key": "greenhouse:Glean:4718548005",
    "company": "Glean",
    "ats": "greenhouse",
    "title": "Product Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718549005",
-   "location": "New York, NY; Mountain View, CA; Nashville, TN; San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718548005",
+   "location": "Nashville, TN; Mountain View, CA; New York, NY; San Francisco, CA",
    "posted": "2026-07-24",
    "salary_min": 140000,
    "salary_max": 187000,
@@ -1989,12 +1893,12 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Glean:4718548005",
+   "key": "greenhouse:Glean:4718549005",
    "company": "Glean",
    "ats": "greenhouse",
    "title": "Product Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718548005",
-   "location": "Nashville, TN; Mountain View, CA; New York, NY; San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718549005",
+   "location": "New York, NY; Mountain View, CA; Nashville, TN; San Francisco, CA",
    "posted": "2026-07-24",
    "salary_min": 140000,
    "salary_max": 187000,
@@ -2065,22 +1969,6 @@
    "salary": "$81k–122k",
    "years": 3,
    "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "workday:Dow Jones:Sales-Enablement-Marketing-Manager_Job_Req_53488",
-   "company": "Dow Jones",
-   "ats": "workday",
-   "title": "Sales Enablement Marketing Manager",
-   "url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Sales-Enablement-Marketing-Manager_Job_Req_53488",
-   "location": "NYC - 1211 Ave of the Americas; United States of America",
-   "posted": "2026-06-09",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 7,
-   "where": "nyc",
    "first_seen": "",
    "fresh": false
   },
@@ -2311,6 +2199,21 @@
  ],
  "skipped": [
   {
+   "key": "workday:Accenture:Enterprise-Change-and-Training-Design-Senior-Manager--Life-Sciences_R00354744",
+   "company": "Accenture",
+   "ats": "workday",
+   "title": "Enterprise Change and Training Design Senior Manager, Life Sciences",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Enterprise-Change-and-Training-Design-Senior-Manager--Life-Sciences_R00354744",
+   "location": "New York, One Manhattan West, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Cincinnati, 4th Street, Corp; Cleveland, 1400 W 10th Street, Corp; Austin, 323 Congress Avenue, Corp; Chicago, Accenture Tower, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Pittsburgh, 1001 Liberty Ave, Corp; Hartford, 280 Trumbull, Corp; St. Louis, 4220 Duncan Avenue, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; Morristown, 1 Speedwell Ave, Corp; San Francisco, 415 Mission Street, Corp; Boston, 888 Boylston, Corp; Denver, 999 18th St, Corp; Philadelphia, 2001 Market St, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Walnut Creek, 1255 Treat Blvd, Corp; Charlotte, 1120 S Tryon St., Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Beaverton, 15220 NW Greenbrier, Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp; United States of America",
+   "posted": "2026-11-13",
+   "salary_min": 112900,
+   "salary_max": 338300,
+   "salary": "$113k–338k",
+   "years": 8,
+   "where": "nyc",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
    "key": "greenhouse:Twilio:8373065",
    "company": "Twilio",
    "ats": "greenhouse",
@@ -2324,36 +2227,6 @@
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (title says Principal)"
-  },
-  {
-   "key": "workday:Nvidia:Technical-Program-Manager--OEM-Enablement_JR2028754",
-   "company": "Nvidia",
-   "ats": "workday",
-   "title": "Senior Technical Program Manager, OEM Enablement",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--OEM-Enablement_JR2028754",
-   "location": "US, CA, Santa Clara; US, SC, Remote; United States of America",
-   "posted": "2026-11-12",
-   "salary_min": 200000,
-   "salary_max": 322000,
-   "salary": "$200k–322k",
-   "years": 12,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 12+ years)"
-  },
-  {
-   "key": "workday:Pfizer:Manager--CX-Adoption_4967559-1",
-   "company": "Pfizer",
-   "ats": "workday",
-   "title": "Manager, CX Adoption",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Manager--CX-Adoption_4967559-1",
-   "location": "United States - New York - New York City; United States - Pennsylvania - Collegeville; Mexico - Mexico City; United Kingdom - Walton Oaks; United States - Florida - Tampa; Costa Rica - Escazu; Greece-Thessaloniki Chortiatis; United States of America",
-   "posted": "2026-11-11",
-   "salary_min": 89400,
-   "salary_max": 165400,
-   "salary": "$89k–165k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (asks for 10+ years)"
   },
   {
    "key": "ashby:elevenlabs:14c7802d-8e72-46b0-833c-3f0835363e48",
@@ -2371,51 +2244,6 @@
    "reason": "Too senior (asks for 10+ years)"
   },
   {
-   "key": "workday:Workday:Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
-   "company": "Workday",
-   "ats": "workday",
-   "title": "Senior Technical Consultant, Integrations – Higher Education & Nonprofit",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-Remote/Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
-   "location": "USA Remote; Flex; United States of America",
-   "posted": "2026-11-10",
-   "salary_min": 111000,
-   "salary_max": 197300,
-   "salary": "$111k–197k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
-   "key": "workday:Workday:Principal-Grants-Management-Implementation-Consultant--Higher-Education_JR-0110995",
-   "company": "Workday",
-   "ats": "workday",
-   "title": "Principal Grants Management Implementation Consultant, Higher Education",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-Remote/Principal-Grants-Management-Implementation-Consultant--Higher-Education_JR-0110995",
-   "location": "USA Remote; Flex; United States of America",
-   "posted": "2026-11-10",
-   "salary_min": 133300,
-   "salary_max": 236900,
-   "salary": "$133k–237k",
-   "years": 6,
-   "where": "remote-us",
-   "reason": "Too senior (title says Principal)"
-  },
-  {
-   "key": "workday:Citi:AI-Adoption---Commercialization-Senior-Lead---Senior-Vice-President_26995884",
-   "company": "Citi",
-   "ats": "workday",
-   "title": "AI Adoption & Commercialization Senior Lead - Senior Vice President",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/AI-Adoption---Commercialization-Senior-Lead---Senior-Vice-President_26995884",
-   "location": "New York New York United States; Hybrid; United States of America",
-   "posted": "2026-11-10",
-   "salary_min": 176720,
-   "salary_max": 265080,
-   "salary": "$177k–265k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (title says Vice President)"
-  },
-  {
    "key": "workday:Chanel:Head-of-Education--Fragrance---Beauty_JOBREQ00118742",
    "company": "Chanel",
    "ats": "workday",
@@ -2429,21 +2257,6 @@
    "years": 15,
    "where": "nyc",
    "reason": "Too senior (title says Head of)"
-  },
-  {
-   "key": "workday:Broadridge:Director--Change-Management----Procurement--Hybrid--South-Windsor--CT-_JR1082286",
-   "company": "Broadridge",
-   "ats": "workday",
-   "title": "Director, Change Management  - Procurement (Hybrid- South Windsor, CT)",
-   "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/South-Windsor-CT/Director--Change-Management----Procurement--Hybrid--South-Windsor--CT-_JR1082286",
-   "location": "South Windsor, CT; New York, NY; Newark, NJ; United States of America",
-   "posted": "2026-11-10",
-   "salary_min": 140000,
-   "salary_max": 175000,
-   "salary": "$140k–175k",
-   "years": 7,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
   },
   {
    "key": "greenhouse:Verkada:5287286007",
@@ -2476,21 +2289,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "workday:Pfizer:PSL-D-Compliance-Training-Ops---Business-Lead--Manager-_4966357-1",
-   "company": "Pfizer",
-   "ats": "workday",
-   "title": "PSL&D Compliance Training Ops & Business Lead (Manager)",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Connecticut---Groton/PSL-D-Compliance-Training-Ops---Business-Lead--Manager-_4966357-1",
-   "location": "United States - Connecticut - Groton; United States - New York - Pearl River; United States - Massachusetts - Andover; United States - New York - New York City; United States - Pennsylvania - Collegeville; United States of America",
-   "posted": "2026-11-09",
-   "salary_min": 88500,
-   "salary_max": 147500,
-   "salary": "$88k–148k",
-   "years": 8,
-   "where": "nyc",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "ashby:OpenAI:dceee17e-1e37-448b-acd3-2f97e41a6af7",
    "company": "OpenAI",
    "ats": "ashby",
@@ -2502,36 +2300,6 @@
    "salary_max": 352000,
    "salary": "$305k–352k",
    "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "workday:Dow Jones:Sr-Director--AI-Operations---Enablement_Job_Req_54044",
-   "company": "Dow Jones",
-   "ats": "workday",
-   "title": "Senior Director - AI Operations & Enablement",
-   "url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Sr-Director--AI-Operations---Enablement_Job_Req_54044",
-   "location": "NYC - 1211 Ave of the Americas; United States of America",
-   "posted": "2026-11-09",
-   "salary_min": 205000,
-   "salary_max": 250000,
-   "salary": "$205k–250k",
-   "years": 15,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "workday:Pfizer:Learning-Effectiveness---Capability-Impact--Director_4967532",
-   "company": "Pfizer",
-   "ats": "workday",
-   "title": "Learning Effectiveness & Capability Impact, Director",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Learning-Effectiveness---Capability-Impact--Director_4967532",
-   "location": "United States - New York - New York City; United States - Illinois - Lake Forest; United States - Any Pfizer Site; United States - Pennsylvania - Collegeville; United States - Florida - Tampa; United States - Massachusetts - Cambridge; United States - Connecticut - Groton; United States of America",
-   "posted": "2026-11-06",
-   "salary_min": 146600,
-   "salary_max": 271500,
-   "salary": "$147k–272k",
-   "years": 8,
    "where": "nyc",
    "reason": "Too senior (title says Director)"
   },
@@ -2596,21 +2364,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "workday:BlackRock:Vice-President--Americas-Regional-Lead---Early-Careers-Learning---Development_R266691",
-   "company": "BlackRock",
-   "ats": "workday",
-   "title": "Vice President, Americas Regional Lead - Early Careers Learning & Development",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Vice-President--Americas-Regional-Lead---Early-Careers-Learning---Development_R266691",
-   "location": "New York, NY; United States of America",
-   "posted": "2026-11-06",
-   "salary_min": 135000,
-   "salary_max": 190000,
-   "salary": "$135k–190k",
-   "years": null,
-   "where": "nyc",
-   "reason": "Too senior (title says Vice President)"
-  },
-  {
    "key": "greenhouse:Robinhood:8356970",
    "company": "Robinhood",
    "ats": "greenhouse",
@@ -2626,21 +2379,6 @@
    "reason": "Pay too low (tops out at $110k)"
   },
   {
-   "key": "workday:JLL:Director--MTS--Training---Organizational-Effectiveness_REQ545821",
-   "company": "JLL",
-   "ats": "workday",
-   "title": "Director, MTS, Training & Organizational Effectiveness",
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Nashville-TN/Director--MTS--Training---Organizational-Effectiveness_REQ545821",
-   "location": "Nashville, TN; Charlotte, NC; Chicago, IL; Dallas, TX; Columbus, OH; Remote; United States of America",
-   "posted": "2026-11-05",
-   "salary_min": 115000,
-   "salary_max": 130000,
-   "salary": "$115k–130k",
-   "years": 3,
-   "where": "remote-us",
-   "reason": "Too senior (title says Director)"
-  },
-  {
    "key": "greenhouse:Anthropic:5461190008",
    "company": "Anthropic",
    "ats": "greenhouse",
@@ -2654,21 +2392,6 @@
    "years": null,
    "where": "nyc",
    "reason": "Too senior (title says Head of)"
-  },
-  {
-   "key": "workday:Workday:Sr-Director-Product-Management---Leader-Enablement---Coaching_JR-0111071",
-   "company": "Workday",
-   "ats": "workday",
-   "title": "Sr. Director Product Management - Leader Enablement & Coaching",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Remote/Sr-Director-Product-Management---Leader-Enablement---Coaching_JR-0111071",
-   "location": "USA, CA, Remote; USA, GA, Atlanta; USA, CO, Boulder; USA, CA, Pleasanton; USA, CA, San Francisco; USA, NY, Remote; Remote",
-   "posted": "2026-11-04",
-   "salary_min": 220400,
-   "salary_max": 408000,
-   "salary": "$220k–408k",
-   "years": 15,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
   },
   {
    "key": "greenhouse:Duolingo:8929982002",
@@ -2701,21 +2424,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Affirm:8043923003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Leadership Development Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043923003",
-   "location": "Remote Canada; Remote US",
-   "posted": "2026-11-03",
-   "salary_min": 112000,
-   "salary_max": 172000,
-   "salary": "$112k–172k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "greenhouse:Affirm:8043921003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -2726,6 +2434,21 @@
    "salary_min": 128000,
    "salary_max": 205000,
    "salary": "$128k–205k",
+   "years": 8,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "greenhouse:Affirm:8043923003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Leadership Development Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043923003",
+   "location": "Remote Canada; Remote US",
+   "posted": "2026-11-03",
+   "salary_min": 112000,
+   "salary_max": 172000,
+   "salary": "$112k–172k",
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (asks for 8+ years)"
@@ -2746,96 +2469,6 @@
    "reason": "Too senior (title says Principal)"
   },
   {
-   "key": "workday:Cushman & Wakefield:Technical-Instructional-Design-Manager_R342042",
-   "company": "Cushman & Wakefield",
-   "ats": "workday",
-   "title": "Technical Instructional Design Manager",
-   "url": "https://cw.wd1.myworkdayjobs.com/External/job/Cincinnati-Ohio-USA/Technical-Instructional-Design-Manager_R342042",
-   "location": "Cincinnati, Ohio, USA; Fully Remote; United States of America",
-   "posted": "2026-11-02",
-   "salary_min": 76500,
-   "salary_max": 90000,
-   "salary": "$76k–90k",
-   "years": 3,
-   "where": "remote-us",
-   "reason": "Pay too low (tops out at $90k)"
-  },
-  {
-   "key": "workday:Nvidia:Cloud-Sales-Enablement-Manager_JR2020098",
-   "company": "Nvidia",
-   "ats": "workday",
-   "title": "Cloud Sales Enablement Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Sales-Enablement-Manager_JR2020098",
-   "location": "US, CA, Santa Clara; US, CA, Remote; United States of America",
-   "posted": "2026-10-30",
-   "salary_min": 200000,
-   "salary_max": 356500,
-   "salary": "$200k–356k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
-   "key": "workday:Nvidia:OEM-Field-Enablement-Manager--HPE-and-HPI_JR2027634",
-   "company": "Nvidia",
-   "ats": "workday",
-   "title": "OEM Field Enablement Manager, HPE and HPI",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Field-Enablement-Manager--HPE-and-HPI_JR2027634",
-   "location": "US, CA, Santa Clara; US, TX, Remote; United States of America",
-   "posted": "2026-10-30",
-   "salary_min": 176000,
-   "salary_max": 276000,
-   "salary": "$176k–276k",
-   "years": 12,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 12+ years)"
-  },
-  {
-   "key": "workday:Morgan Stanley:AI-Strategy---Enablement-VP_PT-JR045843",
-   "company": "Morgan Stanley",
-   "ats": "workday",
-   "title": "AI Strategy & Enablement VP",
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/AI-Strategy---Enablement-VP_PT-JR045843",
-   "location": "New York, New York, United States of America; United States of America",
-   "posted": "2026-10-30",
-   "salary_min": 150000,
-   "salary_max": 210000,
-   "salary": "$150k–210k",
-   "years": 7,
-   "where": "nyc",
-   "reason": "Too senior (title says VP)"
-  },
-  {
-   "key": "workday:Fiserv:Enterprise-Training---Advisor-I_R-10404497",
-   "company": "Fiserv",
-   "ats": "workday",
-   "title": "Enterprise Training - Advisor I",
-   "url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Remote-Maryland/Enterprise-Training---Advisor-I_R-10404497",
-   "location": "Remote, Maryland; Remote; United States of America",
-   "posted": "2026-10-30",
-   "salary_min": 75000,
-   "salary_max": 104000,
-   "salary": "$75k–104k",
-   "years": 6,
-   "where": "remote-us",
-   "reason": "Pay too low (tops out at $104k)"
-  },
-  {
-   "key": "workday:Morgan Stanley:Client-Onboarding-Operations-Associate_PT-JR044440-1",
-   "company": "Morgan Stanley",
-   "ats": "workday",
-   "title": "Client Onboarding Operations Associate",
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Client-Onboarding-Operations-Associate_PT-JR044440-1",
-   "location": "New York, New York, United States of America; United States of America",
-   "posted": "2026-10-28",
-   "salary_min": 65000,
-   "salary_max": 103000,
-   "salary": "$65k–103k",
-   "years": 3,
-   "where": "nyc",
-   "reason": "Pay too low (tops out at $103k)"
-  },
-  {
    "key": "ashby:airwallex:3b77ef83-5a92-45e2-b70f-b1c7be7685c5",
    "company": "airwallex",
    "ats": "ashby",
@@ -2849,51 +2482,6 @@
    "years": 10,
    "where": "nyc",
    "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "workday:Prudential Financial:PGIM-Real-Estate---Director--Data---Analytics--Global-Business-Enablement_R-125265",
-   "company": "Prudential Financial",
-   "ats": "workday",
-   "title": "PGIM Real Estate – Director, Data & Analytics, Global Business Enablement",
-   "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM-Real-Estate---Director--Data---Analytics--Global-Business-Enablement_R-125265",
-   "location": "Newark, NJ, USA; New York 2 Manhattan West; San Francisco, CA, USA; United States of America",
-   "posted": "2026-10-27",
-   "salary_min": 150000,
-   "salary_max": 175000,
-   "salary": "$150k–175k",
-   "years": null,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "workday:Dow Jones:Senior-Manager--Creative-Operations---Business-Enablement_Job_Req_55998-1",
-   "company": "Dow Jones",
-   "ats": "workday",
-   "title": "Senior Manager, Creative Operations & Business Enablement",
-   "url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Senior-Manager--Creative-Operations---Business-Enablement_Job_Req_55998-1",
-   "location": "NYC - 1211 Ave of the Americas; United States of America",
-   "posted": "2026-10-27",
-   "salary_min": 145000,
-   "salary_max": 185000,
-   "salary": "$145k–185k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (asks for 10+ years)"
-  },
-  {
-   "key": "workday:The Met museum:Head-of-Education_JR-44252-1",
-   "company": "The Met museum",
-   "ats": "workday",
-   "title": "Head of Education",
-   "url": "https://metmuseum.wd5.myworkdayjobs.com/metmuseumcareers/job/The-Met-Fifth-Avenue-New-York-NY/Head-of-Education_JR-44252-1",
-   "location": "The Met Fifth Avenue, New York, NY; United States of America",
-   "posted": "2026-10-23",
-   "salary_min": 270000,
-   "salary_max": 310000,
-   "salary": "$270k–310k",
-   "years": 15,
-   "where": "nyc",
-   "reason": "Too senior (title says Head of)"
   },
   {
    "key": "greenhouse:Reddit:8263435",
@@ -2924,21 +2512,6 @@
    "years": null,
    "where": "nyc",
    "reason": "Too senior (title says Head of)"
-  },
-  {
-   "key": "workday:Mizuho Americas:Client-Onboarding---Investment-Advisors-Funds-Group---AVP_R7467",
-   "company": "Mizuho Americas",
-   "ats": "workday",
-   "title": "Client Onboarding - Investment Advisors/Funds Group - Associate / AVP",
-   "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/Client-Onboarding---Investment-Advisors-Funds-Group---AVP_R7467",
-   "location": "NYC (1285); United States of America",
-   "posted": "2026-10-22",
-   "salary_min": 77000,
-   "salary_max": 105000,
-   "salary": "$77k–105k",
-   "years": null,
-   "where": "nyc",
-   "reason": "Pay too low (tops out at $105k)"
   },
   {
    "key": "ashby:amplify:991c5b64-1474-4f80-a212-4cf06c24dd38",
@@ -2999,36 +2572,6 @@
    "years": 2,
    "where": "nyc",
    "reason": "Pay too low (tops out at $110k)"
-  },
-  {
-   "key": "workday:Blackstone:Private-Wealth-Investment-Education--Vice-President---Corporate-Affairs_46018",
-   "company": "Blackstone",
-   "ats": "workday",
-   "title": "Private Wealth Investment Education, Vice President - Corporate Affairs",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Private-Wealth-Investment-Education--Vice-President---Corporate-Affairs_46018",
-   "location": "New York; United States of America",
-   "posted": "2026-10-16",
-   "salary_min": 150000,
-   "salary_max": 225000,
-   "salary": "$150k–225k",
-   "years": 5,
-   "where": "nyc",
-   "reason": "Too senior (title says Vice President)"
-  },
-  {
-   "key": "workday:Regeneron:Director--Medical-Affairs-Training_R51283",
-   "company": "Regeneron",
-   "ats": "workday",
-   "title": "Director, Medical Affairs Training",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/Director--Medical-Affairs-Training_R51283",
-   "location": "Remote",
-   "posted": "2026-10-15",
-   "salary_min": 205000,
-   "salary_max": 341600,
-   "salary": "$205k–342k",
-   "years": null,
-   "where": "remote?",
-   "reason": "Too senior (title says Director)"
   },
   {
    "key": "greenhouse:Samsara:8250348",
@@ -3121,21 +2664,6 @@
    "reason": "Pay too low (tops out at $110k)"
   },
   {
-   "key": "workday:TIAA:Director-of-Acquisition-Marketing-and-Onboarding_R260900165-3",
-   "company": "TIAA",
-   "ats": "workday",
-   "title": "Director of Acquisition Marketing and Onboarding",
-   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Director-of-Acquisition-Marketing-and-Onboarding_R260900165-3",
-   "location": "Dallas, TX, USA; Charlotte Main 8500 Carnegie Blvd; Iselin, NJ - 194 Wood Avenue South; New York, NY, USA; Hybrid Flex; United States of America",
-   "posted": "2026-10-06",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 7,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
-  },
-  {
    "key": "greenhouse:Pursuit:8249035",
    "company": "Pursuit",
    "ats": "greenhouse",
@@ -3149,111 +2677,6 @@
    "years": 12,
    "where": "nyc",
    "reason": "Too senior (title says Vice President)"
-  },
-  {
-   "key": "workday:Neuberger Berman:Chief-Administrative-Officer---Technology--Operations---Business-Enablement_R0012520",
-   "company": "Neuberger Berman",
-   "ats": "workday",
-   "title": "Chief Administrative Officer - Technology, Operations & Business Enablement",
-   "url": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Chief-Administrative-Officer---Technology--Operations---Business-Enablement_R0012520",
-   "location": "New York, NY; United States of America",
-   "posted": "2026-10-01",
-   "salary_min": 200000,
-   "salary_max": 250000,
-   "salary": "$200k–250k",
-   "years": 12,
-   "where": "nyc",
-   "reason": "Too senior (title says Chief)"
-  },
-  {
-   "key": "workday:Guardian Life:Senior-AI-Transformation-Lead_R000110391",
-   "company": "Guardian Life",
-   "ats": "workday",
-   "title": "Senior AI Transformation Lead",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/Senior-AI-Transformation-Lead_R000110391",
-   "location": "New York; Hybrid - In office 3 days per week; United States of America",
-   "posted": "2026-10-01",
-   "salary_min": 152290,
-   "salary_max": 250195,
-   "salary": "$152k–250k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (asks for 10+ years)"
-  },
-  {
-   "key": "workday:Interpublic Group (IPG):Learning-and-Development-Program-Manager_R15497-1",
-   "company": "Interpublic Group (IPG)",
-   "ats": "workday",
-   "title": "Program Manager, Learning and Development",
-   "url": "https://interpublic.wd5.myworkdayjobs.com/OMC/job/New-York-New-York-United-States-of-America/Learning-and-Development-Program-Manager_R15497-1",
-   "location": "New York, New York, United States of America; Onsite; United States of America",
-   "posted": "2026-09-29",
-   "salary_min": 50000,
-   "salary_max": 95000,
-   "salary": "$50k–95k",
-   "years": 3,
-   "where": "nyc",
-   "reason": "Pay too low (tops out at $95k)"
-  },
-  {
-   "key": "workday:Broadridge:Senior-Director--Marketing-Technology-Program-Management---Enablement_JR1085776",
-   "company": "Broadridge",
-   "ats": "workday",
-   "title": "Director, Marketing Technology Enablement",
-   "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Senior-Director--Marketing-Technology-Program-Management---Enablement_JR1085776",
-   "location": "New York, NY; Houston, TX; Andover, MA; Edgewood, NY; Pittsburgh, PA; Newark, NJ; Kansas City, MO; El Dorado Hills, CA; Boston - 99 High Street; Chicago - 167 N Green St; Coppell, TX; United States of America",
-   "posted": "2026-09-29",
-   "salary_min": 165000,
-   "salary_max": 175000,
-   "salary": "$165k–175k",
-   "years": 5,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "workday:Interpublic Group (IPG):XMLNAME-25520-Director--Agency-Enablement--Investment-Operations_25520-KP",
-   "company": "Interpublic Group (IPG)",
-   "ats": "workday",
-   "title": "25520-Director, Agency Enablement, Investment Operations",
-   "url": "https://interpublic.wd5.myworkdayjobs.com/OMC/job/New-York-New-York-United-States-of-America/XMLNAME-25520-Director--Agency-Enablement--Investment-Operations_25520-KP",
-   "location": "New York, New York, United States of America; Hybrid; United States of America",
-   "posted": "2026-09-28",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": null,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "workday:Interpublic Group (IPG):XMLNAME-25522-Director--Addressable-Investment-Enablement--Investment-Operations_25522-KP",
-   "company": "Interpublic Group (IPG)",
-   "ats": "workday",
-   "title": "25522-Director, Addressable Investment Enablement, Investment Operations",
-   "url": "https://interpublic.wd5.myworkdayjobs.com/OMC/job/New-York-New-York-United-States-of-America/XMLNAME-25522-Director--Addressable-Investment-Enablement--Investment-Operations_25522-KP",
-   "location": "New York, New York, United States of America; Hybrid; United States of America",
-   "posted": "2026-09-28",
-   "salary_min": 150000,
-   "salary_max": 160000,
-   "salary": "$150k–160k",
-   "years": null,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "workday:Interpublic Group (IPG):XMLNAME-25524-Director--Commercial-Enablement--Investment-Operations_25524-KP",
-   "company": "Interpublic Group (IPG)",
-   "ats": "workday",
-   "title": "25524-Director, Commercial Enablement, Investment Operations",
-   "url": "https://interpublic.wd5.myworkdayjobs.com/OMC/job/New-York-New-York-United-States-of-America/XMLNAME-25524-Director--Commercial-Enablement--Investment-Operations_25524-KP",
-   "location": "New York, New York, United States of America; Hybrid; United States of America",
-   "posted": "2026-09-28",
-   "salary_min": 150000,
-   "salary_max": 160000,
-   "salary": "$150k–160k",
-   "years": null,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
   },
   {
    "key": "workday:Chanel:Group-Director--Organization-Design-and-Change-Enablement---HR_JOBREQ00117101",
@@ -3271,27 +2694,12 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:CLEAR:8237287",
-   "company": "CLEAR",
-   "ats": "greenhouse",
-   "title": "Director, Sales Performance and Enablement (Airport Operations)",
-   "url": "https://job-boards.greenhouse.io/clear/jobs/8237287",
-   "location": "New York, New York, United States; NYHQ",
-   "posted": "2026-09-28",
-   "salary_min": 180000,
-   "salary_max": 215000,
-   "salary": "$180k–215k",
-   "years": 8,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "greenhouse:Braze:8233252",
+   "key": "greenhouse:Braze:8192090",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Talent Development Operations & Program Specialist",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8233252",
-   "location": "Chicago; New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8192090",
+   "location": "New York City",
    "posted": "2026-09-25",
    "salary_min": 67000,
    "salary_max": 90000,
@@ -3301,12 +2709,12 @@
    "reason": "Pay too low (tops out at $90k)"
   },
   {
-   "key": "greenhouse:Braze:8192090",
+   "key": "greenhouse:Braze:8233252",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Talent Development Operations & Program Specialist",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8192090",
-   "location": "New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8233252",
+   "location": "Chicago; New York City",
    "posted": "2026-09-25",
    "salary_min": 67000,
    "salary_max": 90000,
@@ -3346,21 +2754,6 @@
    "reason": "Pay too low (tops out at $110k)"
   },
   {
-   "key": "workday:Neuberger Berman:Private-Wealth-Business-Enablement-Officer_R0011386",
-   "company": "Neuberger Berman",
-   "ats": "workday",
-   "title": "Private Wealth Business Enablement Officer",
-   "url": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Private-Wealth-Business-Enablement-Officer_R0011386",
-   "location": "New York, NY; United States of America",
-   "posted": "2026-09-21",
-   "salary_min": 120000,
-   "salary_max": 175000,
-   "salary": "$120k–175k",
-   "years": 8,
-   "where": "nyc",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "greenhouse:General Assembly:8196684",
    "company": "General Assembly",
    "ats": "greenhouse",
@@ -3376,21 +2769,6 @@
    "reason": "Pay too low (tops out at $80k)"
   },
   {
-   "key": "workday:Neuberger Berman:Senior-Manager--Specialty-Finance-Launch-Execution---Platform-Enablement_R0012255",
-   "company": "Neuberger Berman",
-   "ats": "workday",
-   "title": "Senior Project Manager, Specialty Finance Operations (Fund Launch & Platform Enablement)",
-   "url": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Senior-Manager--Specialty-Finance-Launch-Execution---Platform-Enablement_R0012255",
-   "location": "New York, NY; United States of America",
-   "posted": "2026-09-09",
-   "salary_min": 200000,
-   "salary_max": 250000,
-   "salary": "$200k–250k",
-   "years": 12,
-   "where": "nyc",
-   "reason": "Too senior (asks for 12+ years)"
-  },
-  {
    "key": "ashby:airwallex:a6ccf83b-839b-4460-abc8-8fa359c9501f",
    "company": "airwallex",
    "ats": "ashby",
@@ -3404,21 +2782,6 @@
    "years": null,
    "where": "remote-us",
    "reason": "Too senior (title says Head of)"
-  },
-  {
-   "key": "workday:Interpublic Group (IPG):Director--AI-Training---Development_R13945",
-   "company": "Interpublic Group (IPG)",
-   "ats": "workday",
-   "title": "Director, AI Training & Development",
-   "url": "https://interpublic.wd5.myworkdayjobs.com/OMC/job/Jersey-City-New-Jersey-United-States-of-America/Director--AI-Training---Development_R13945",
-   "location": "Jersey City, New Jersey, United States of America; Hybrid; United States of America",
-   "posted": "2026-09-04",
-   "salary_min": 150000,
-   "salary_max": 160000,
-   "salary": "$150k–160k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
   },
   {
    "key": "ashby:Notion:98bb09a8-2fdf-4c12-84dd-8568553159d8",
@@ -3496,21 +2859,6 @@
    "reason": "Too senior (title says VP)"
   },
   {
-   "key": "workday:Guardian Life:Head-of-Operational-Excellence-and-Enablement--Underwriting_R000109813",
-   "company": "Guardian Life",
-   "ats": "workday",
-   "title": "Head of Operational Excellence and Enablement, Underwriting",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/Boston/Head-of-Operational-Excellence-and-Enablement--Underwriting_R000109813",
-   "location": "Boston; Bethlehem; New York; Hybrid - In office 3 days per week; United States of America",
-   "posted": "2026-07-31",
-   "salary_min": 155370,
-   "salary_max": 255255,
-   "salary": "$155k–255k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (title says Head of)"
-  },
-  {
    "key": "greenhouse:General Assembly:8089983",
    "company": "General Assembly",
    "ats": "greenhouse",
@@ -3556,21 +2904,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "workday:Broadridge:VP--Prod-Mgt--Digital-Enablement-_JR1082867",
-   "company": "Broadridge",
-   "ats": "workday",
-   "title": "VP, Prod Mgt (Digital Enablement)",
-   "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/VP--Prod-Mgt--Digital-Enablement-_JR1082867",
-   "location": "New York, NY; United States of America",
-   "posted": "2026-05-29",
-   "salary_min": 330000,
-   "salary_max": 350000,
-   "salary": "$330k–350k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (title says VP)"
-  },
-  {
    "key": "ashby:EliseAI:25b630b5-88db-4fcd-a9be-3a567e975b74",
    "company": "EliseAI",
    "ats": "ashby",
@@ -3588,19 +2921,104 @@
  ],
  "problems": [
   {
+   "company": "AIG",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "AMC Networks",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Adobe",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "AllianceBernstein",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Apollo Global Management",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
    "company": "Bilt Rewards",
    "ats": "greenhouse",
    "error": "HTTP 404"
   },
   {
+   "company": "BlackRock",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Blackstone",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Booz Allen Hamilton",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Bristol Myers Squibb",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Broadridge",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Citi",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
    "company": "Condé Nast",
    "ats": "workday",
-   "error": "HTTP 422"
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Cushman & Wakefield",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Dow Jones",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Etsy",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Fiserv",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Fox Corporation",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
   },
   {
    "company": "Grammarly",
    "ats": "greenhouse",
    "error": "HTTP 404"
+  },
+  {
+   "company": "Guardian Life",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
   },
   {
    "company": "Headway",
@@ -3623,9 +3041,69 @@
    "error": "HTTP 404"
   },
   {
+   "company": "Interpublic Group (IPG)",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "JLL",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Mastercard",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Mizuho Americas",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Morgan Stanley",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Nasdaq",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Neuberger Berman",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Nvidia",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "PVH",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
    "company": "Paxos",
    "ats": "greenhouse",
    "error": "HTTP 404"
+  },
+  {
+   "company": "Pfizer",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Prudential Financial",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Regeneron",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
   },
   {
    "company": "Runway (AI video)",
@@ -3633,14 +3111,79 @@
    "error": "HTTP 404"
   },
   {
+   "company": "S&P Global",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Scholastic",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Sony Music Entertainment",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
    "company": "Spring Health",
    "ats": "greenhouse",
    "error": "HTTP 404"
   },
   {
+   "company": "State Street",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "TIAA",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "The Carlyle Group",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "The Met museum",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "The New York Times",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "The Walt Disney Company",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
    "company": "Thirty Madison",
    "ats": "greenhouse",
    "error": "HTTP 404"
+  },
+  {
+   "company": "Thomson Reuters",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Travelers",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Universal Music Group",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Univision (TelevisaUnivision)",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
   },
   {
    "company": "Vimeo",
@@ -3651,6 +3194,41 @@
    "company": "Warby Parker",
    "ats": "greenhouse",
    "error": "HTTP 404"
+  },
+  {
+   "company": "Warner Bros. Discovery",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Warner Music Group",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "WeWork",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Wells Fargo",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Wiley",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "Workday",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
+  },
+  {
+   "company": "iHeartMedia",
+   "ats": "workday",
+   "error": "HTTP Error 521: <none>"
   }
  ]
 }
