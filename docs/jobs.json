@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-14T17:17:03+00:00",
- "companies_checked": 274,
+ "generated": "2026-11-14T21:37:29+00:00",
+ "companies_checked": 278,
  "companies_total": 292,
- "postings_scanned": 34670,
+ "postings_scanned": 35984,
  "matches": [
   {
    "key": "ashby:Harvey:06f19e6b-f817-41ea-9c54-94d865f88428",
@@ -2374,6 +2374,21 @@
    "reason": "Too senior (title says Principal)"
   },
   {
+   "key": "workday:Nvidia:Technical-Program-Manager--OEM-Enablement_JR2028754",
+   "company": "Nvidia",
+   "ats": "workday",
+   "title": "Senior Technical Program Manager, OEM Enablement",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--OEM-Enablement_JR2028754",
+   "location": "US, CA, Santa Clara; US, SC, Remote; United States of America",
+   "posted": "2026-11-12",
+   "salary_min": 200000,
+   "salary_max": 322000,
+   "salary": "$200k–322k",
+   "years": 12,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 12+ years)"
+  },
+  {
    "key": "workday:Pfizer:Manager--CX-Adoption_4967559-1",
    "company": "Pfizer",
    "ats": "workday",
@@ -2644,6 +2659,21 @@
    "reason": "Pay too low (tops out at $110k)"
   },
   {
+   "key": "workday:JLL:Director--MTS--Training---Organizational-Effectiveness_REQ545821",
+   "company": "JLL",
+   "ats": "workday",
+   "title": "Director, MTS, Training & Organizational Effectiveness",
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Nashville-TN/Director--MTS--Training---Organizational-Effectiveness_REQ545821",
+   "location": "Nashville, TN; Charlotte, NC; Chicago, IL; Dallas, TX; Columbus, OH; Remote; United States of America",
+   "posted": "2026-11-05",
+   "salary_min": 115000,
+   "salary_max": 130000,
+   "salary": "$115k–130k",
+   "years": 3,
+   "where": "remote-us",
+   "reason": "Too senior (title says Director)"
+  },
+  {
    "key": "greenhouse:Anthropic:5461190008",
    "company": "Anthropic",
    "ats": "greenhouse",
@@ -2704,21 +2734,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Affirm:8043921003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Leadership Development Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043921003",
-   "location": "Remote US; Remote Canada",
-   "posted": "2026-11-03",
-   "salary_min": 128000,
-   "salary_max": 205000,
-   "salary": "$128k–205k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "greenhouse:Affirm:8043923003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -2729,6 +2744,21 @@
    "salary_min": 112000,
    "salary_max": 172000,
    "salary": "$112k–172k",
+   "years": 8,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "greenhouse:Affirm:8043921003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Leadership Development Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043921003",
+   "location": "Remote US; Remote Canada",
+   "posted": "2026-11-03",
+   "salary_min": 128000,
+   "salary_max": 205000,
+   "salary": "$128k–205k",
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (asks for 8+ years)"
@@ -2747,6 +2777,51 @@
    "years": 12,
    "where": "remote-us",
    "reason": "Too senior (title says Principal)"
+  },
+  {
+   "key": "workday:Cushman & Wakefield:Technical-Instructional-Design-Manager_R342042",
+   "company": "Cushman & Wakefield",
+   "ats": "workday",
+   "title": "Technical Instructional Design Manager",
+   "url": "https://cw.wd1.myworkdayjobs.com/External/job/Cincinnati-Ohio-USA/Technical-Instructional-Design-Manager_R342042",
+   "location": "Cincinnati, Ohio, USA; Fully Remote; United States of America",
+   "posted": "2026-11-02",
+   "salary_min": 76500,
+   "salary_max": 90000,
+   "salary": "$76k–90k",
+   "years": 3,
+   "where": "remote-us",
+   "reason": "Pay too low (tops out at $90k)"
+  },
+  {
+   "key": "workday:Nvidia:Cloud-Sales-Enablement-Manager_JR2020098",
+   "company": "Nvidia",
+   "ats": "workday",
+   "title": "Cloud Sales Enablement Manager",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Sales-Enablement-Manager_JR2020098",
+   "location": "US, CA, Santa Clara; US, CA, Remote; United States of America",
+   "posted": "2026-10-30",
+   "salary_min": 200000,
+   "salary_max": 356500,
+   "salary": "$200k–356k",
+   "years": 8,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "workday:Nvidia:OEM-Field-Enablement-Manager--HPE-and-HPI_JR2027634",
+   "company": "Nvidia",
+   "ats": "workday",
+   "title": "OEM Field Enablement Manager, HPE and HPI",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Field-Enablement-Manager--HPE-and-HPI_JR2027634",
+   "location": "US, CA, Santa Clara; US, TX, Remote; United States of America",
+   "posted": "2026-10-30",
+   "salary_min": 176000,
+   "salary_max": 276000,
+   "salary": "$176k–276k",
+   "years": 12,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 12+ years)"
   },
   {
    "key": "workday:Morgan Stanley:AI-Strategy---Enablement-VP_PT-JR045843",
@@ -3526,11 +3601,6 @@
    "error": "HTTP 422"
   },
   {
-   "company": "Cushman & Wakefield",
-   "ats": "workday",
-   "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
    "company": "Grammarly",
    "ats": "greenhouse",
    "error": "HTTP 404"
@@ -3554,16 +3624,6 @@
    "company": "HubSpot",
    "ats": "greenhouse",
    "error": "HTTP 404"
-  },
-  {
-   "company": "JLL",
-   "ats": "workday",
-   "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "company": "Nvidia",
-   "ats": "workday",
-   "error": "Expecting value: line 1 column 1 (char 0)"
   },
   {
    "company": "Paxos",
@@ -3599,11 +3659,6 @@
    "company": "Warby Parker",
    "ats": "greenhouse",
    "error": "HTTP 404"
-  },
-  {
-   "company": "Wells Fargo",
-   "ats": "workday",
-   "error": "Expecting value: line 1 column 1 (char 0)"
   }
  ]
 }
