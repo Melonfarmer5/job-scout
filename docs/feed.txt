@@ -1,11 +1,14 @@
-JOB SCOUT FEED generated 2026-11-14T03:27:17+00:00
-Checked 230 of 292 companies. 137 open matches, 21 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-14T17:17:03+00:00
+Checked 274 of 292 companies. 147 open matches, 25 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-14 | Harvey | Program Manager, Customer Education | San Francisco; Remote; USA | $121k–166k | yrs n/a | https://jobs.ashbyhq.com/harvey/06f19e6b-f817-41ea-9c54-94d865f88428
 2026-11-14 | Harvey | Program Manager, Customer Education | New York; Remote; USA | $121k–166k | yrs n/a | https://jobs.ashbyhq.com/harvey/8933bce6-f85b-4a74-9530-d5c8916af055
+2026-11-13 | CLEAR | Revenue Enablement Manager (CLEAR1 - B2B) | New York, New York, United States; NYHQ | $120k–150k | yrs n/a | https://job-boards.greenhouse.io/clear/jobs/8385720
 2026-11-13 | Abridge | Member of Product Staff, Foundation Models & Post-Training | SF Office; Remote; USA | $250k–290k | 7+ yrs | https://jobs.ashbyhq.com/Abridge/5b66aac3-cb7a-4bbc-a28c-9fb38cf16656
+2026-11-12 | Wiley | Senior Manager, AI Training & Enablement | Hoboken (HQ), NJ, USA; Remote, Weinheim, DEU; Remote, VA, USA; Weinheim, DEU; London, GBR; Cary, NC, USA; Remote, NC, USA; Remote, NJ, USA; Remote, NY, USA; Oxford, GBR; Remote, MA, USA; Hybrid; United States of America | $89k–128k | 5+ yrs | https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Manager--AI-Training---Enablement_R2601581
 2026-11-12 | Salesforce | Learning Experience Design Senior Analyst | Texas - Houston Metro - Remote; Washington - Seattle Metro - Remote; Washington - Seattle; Washington D.C. - Remote; Illinois - Remote; Office - Flexible; United States of America | $94k–142k | 5+ yrs | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Houston-Metro---Remote/Learning-Experience-Design-Senior-Analyst_JR367256
+2026-11-12 | S&P Global | Learning Partner | New York, NY; United States of America | $104k–142k | yrs n/a | https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Learning-Partner_332553-1
 2026-11-12 | Ramp | Risk Operations Specialist, Onboarding | New York, NY (HQ); San Francisco, CA; Remote (US); Remote; USA | $100k–155k | 1+ yrs | https://jobs.ashbyhq.com/ramp/55bd9ab4-8edc-4493-b577-4277ad2f9ae6
 2026-11-11 | PwC | NextGen Change- Change Management- Senior Associate | NY-New York; CA-Los Angeles; GA-Atlanta; IL-Chicago; UT-Salt Lake City; TX-Dallas; CA-San Francisco; WA-Seattle; United States of America | $77k–202k | 3+ yrs | https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/NextGen-Change--Change-Management--Senior-Associate_773414WD
 2026-11-11 | PwC | NextGen Change- Change Management- Manager | NY-New York; TX-Dallas; CA-Los Angeles; GA-Atlanta; CA-San Francisco; WA-Seattle; United States of America | $99k–232k | 5+ yrs | https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/NextGen-Change--Change-Management--Manager_773415WD
@@ -21,5 +24,6 @@ Each line: posted date | company | title | location | salary | years asked | url
 2026-11-10 | Braze | Product Enablement Manager | Chicago; New York City | $96k–150k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8373990
 2026-11-10 | Braze | Product Enablement Manager | New York City | $101k–160k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8337945
 2026-11-10 | Braze | Product Enablement Manager | San Francisco; New York City | $101k–160k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8373965
+2026-11-09 | Fox Corporation | News Trainee, 6-Month Training Program | New York, New York, USA; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/News-Trainee--6-Month-Training-Program_R50034263
 2026-11-09 | EliseAI | GTM Product Enablement Manager | Housing | New York City; Boston; United States | $150k–190k | yrs n/a | https://jobs.ashbyhq.com/EliseAI/ab2130bc-ec9a-46be-a609-61794072dd3d
 2026-11-09 | Cohere | Adoption Specialist - Infrastructure & Agentic | Toronto; Europe; Canada; London; United States; New York; United Kingdom; Atlanta; Remote | $200k–300k | yrs n/a | https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2
