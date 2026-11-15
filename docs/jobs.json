@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-14T21:37:29+00:00",
- "companies_checked": 278,
+ "generated": "2026-11-15T02:49:03+00:00",
+ "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35984,
+ "postings_scanned": 36112,
  "matches": [
   {
    "key": "ashby:Harvey:06f19e6b-f817-41ea-9c54-94d865f88428",
@@ -2884,6 +2884,21 @@
    "reason": "Too senior (title says Director)"
   },
   {
+   "key": "workday:Prudential Financial:PGIM-Real-Estate---Director--Data---Analytics--Global-Business-Enablement_R-125265",
+   "company": "Prudential Financial",
+   "ats": "workday",
+   "title": "PGIM Real Estate – Director, Data & Analytics, Global Business Enablement",
+   "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM-Real-Estate---Director--Data---Analytics--Global-Business-Enablement_R-125265",
+   "location": "Newark, NJ, USA; New York 2 Manhattan West; San Francisco, CA, USA; United States of America",
+   "posted": "2026-10-27",
+   "salary_min": 150000,
+   "salary_max": 175000,
+   "salary": "$150k–175k",
+   "years": null,
+   "where": "nyc",
+   "reason": "Too senior (title says Director)"
+  },
+  {
    "key": "workday:Dow Jones:Senior-Manager--Creative-Operations---Business-Enablement_Job_Req_55998-1",
    "company": "Dow Jones",
    "ats": "workday",
@@ -3629,11 +3644,6 @@
    "company": "Paxos",
    "ats": "greenhouse",
    "error": "HTTP 404"
-  },
-  {
-   "company": "Prudential Financial",
-   "ats": "workday",
-   "error": "Expecting value: line 1 column 1 (char 0)"
   },
   {
    "company": "Runway (AI video)",
