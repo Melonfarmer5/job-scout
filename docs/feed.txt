@@ -1,7 +1,8 @@
-JOB SCOUT FEED generated 2026-11-16T02:52:40+00:00
-Checked 279 of 292 companies. 146 open matches, 25 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-16T21:10:15+00:00
+Checked 279 of 292 companies. 144 open matches, 26 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
+2026-11-16 | Toast | Senior Onboarding Manager, Hotels | Remote, US; Field Position - USA | $115k–234k | 4+ yrs | https://careers.toasttab.com/jobs?gh_jid=8385953
 2026-11-14 | Harvey | Program Manager, Customer Education | San Francisco; Remote; USA | $121k–166k | yrs n/a | https://jobs.ashbyhq.com/harvey/06f19e6b-f817-41ea-9c54-94d865f88428
 2026-11-14 | Harvey | Program Manager, Customer Education | New York; Remote; USA | $121k–166k | yrs n/a | https://jobs.ashbyhq.com/harvey/8933bce6-f85b-4a74-9530-d5c8916af055
 2026-11-13 | CLEAR | Revenue Enablement Manager (CLEAR1 - B2B) | New York, New York, United States; NYHQ | $120k–150k | yrs n/a | https://job-boards.greenhouse.io/clear/jobs/8385720
@@ -19,11 +20,11 @@ Each line: posted date | company | title | location | salary | years asked | url
 2026-11-10 | OpenAI | Learning & Instruction Lead, Academy | San Francisco; New York City; Washington, DC; Remote; United States | $171k–252k | yrs n/a | https://jobs.ashbyhq.com/openai/97493ce9-9491-4384-9be9-8069625cd766
 2026-11-10 | Notion | Revenue Enablement Program Manager, AMER | San Francisco, California; New York, New York; Remote; United States | $205k–245k | 7+ yrs | https://jobs.ashbyhq.com/notion/e4b7c4d5-9c71-4f82-bf32-0af60e1f2a9f
 2026-11-10 | Navan | Senior Manager - North America Field Enablement | New York, NY; San Francisco, CA; New York City | $142k–190k | 5+ yrs | https://navan.com/careers/openings?gh_jid=8369935
-2026-11-10 | Clay | CX Enablement (Growth Strategy) | New York; Remote; United States | $145k–185k | 4+ yrs | https://jobs.ashbyhq.com/claylabs/4ad300ac-8c5f-4485-95d9-f1e9377c2243
+2026-11-10 | Clay | CX Enablement (Growth Strategy) | New York; Remote; United States | $170k–210k | 4+ yrs | https://jobs.ashbyhq.com/claylabs/4ad300ac-8c5f-4485-95d9-f1e9377c2243
 2026-11-10 | Chime | Senior Training Lead | Remote, USA; Remote - US | $130k–180k | yrs n/a | https://boards.greenhouse.io/chime/jobs/8928783002?gh_jid=8928783002
 2026-11-10 | Braze | Product Enablement Manager | Chicago; New York City | $96k–150k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8373990
-2026-11-10 | Braze | Product Enablement Manager | New York City | $101k–160k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8337945
 2026-11-10 | Braze | Product Enablement Manager | San Francisco; New York City | $101k–160k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8373965
+2026-11-10 | Braze | Product Enablement Manager | New York City | $101k–160k | 7+ yrs | https://job-boards.greenhouse.io/braze/jobs/8337945
 2026-11-09 | Fox Corporation | News Trainee, 6-Month Training Program | New York, New York, USA; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/News-Trainee--6-Month-Training-Program_R50034263
 2026-11-09 | EliseAI | GTM Product Enablement Manager | Housing | New York City; Boston; United States | $150k–190k | yrs n/a | https://jobs.ashbyhq.com/EliseAI/ab2130bc-ec9a-46be-a609-61794072dd3d
 2026-11-09 | Cohere | Adoption Specialist - Infrastructure & Agentic | Toronto; Europe; Canada; London; United States; New York; United Kingdom; Atlanta; Remote | $200k–300k | yrs n/a | https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2
