@@ -1,5 +1,5 @@
-JOB SCOUT FEED generated 2026-11-15T17:52:01+00:00
-Checked 279 of 292 companies. 147 open matches, 25 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-16T02:52:40+00:00
+Checked 279 of 292 companies. 146 open matches, 25 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-14 | Harvey | Program Manager, Customer Education | San Francisco; Remote; USA | $121k–166k | yrs n/a | https://jobs.ashbyhq.com/harvey/06f19e6b-f817-41ea-9c54-94d865f88428

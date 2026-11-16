@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-15T17:52:01+00:00",
+ "generated": "2026-11-16T02:52:40+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 36085,
+ "postings_scanned": 36057,
  "matches": [
   {
    "key": "ashby:Harvey:06f19e6b-f817-41ea-9c54-94d865f88428",
@@ -1685,22 +1685,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Anthropic:5428790008",
-   "company": "Anthropic",
-   "ats": "greenhouse",
-   "title": "Sales Enablement Trainer, Claude Products",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428790008",
-   "location": "San Francisco, CA | New York City, NY; New York City, NY",
-   "posted": "2026-09-22",
-   "salary_min": 190000,
-   "salary_max": 270000,
-   "salary": "$190k–270k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Databricks:8780673002",
    "company": "Databricks",
    "ats": "greenhouse",
@@ -3304,12 +3288,12 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Braze:8192090",
+   "key": "greenhouse:Braze:8233252",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Talent Development Operations & Program Specialist",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8192090",
-   "location": "New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8233252",
+   "location": "Chicago; New York City",
    "posted": "2026-09-25",
    "salary_min": 67000,
    "salary_max": 90000,
@@ -3319,12 +3303,12 @@
    "reason": "Pay too low (tops out at $90k)"
   },
   {
-   "key": "greenhouse:Braze:8233252",
+   "key": "greenhouse:Braze:8192090",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Talent Development Operations & Program Specialist",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8233252",
-   "location": "Chicago; New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8192090",
+   "location": "New York City",
    "posted": "2026-09-25",
    "salary_min": 67000,
    "salary_max": 90000,
