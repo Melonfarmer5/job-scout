@@ -478,7 +478,7 @@
   },
   "greenhouse:Gusto:8128422": {
    "first_seen": "",
-   "last_seen": "2026-11-13",
+   "last_seen": "2026-11-17",
    "title": "Senior L&D Specialist",
    "company": "Gusto",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8128422"
@@ -591,7 +591,7 @@
   "workday:Guardian Life:AI-Transformation---Advisor-Experienc-Lead_R000110419": {
    "first_seen": "",
    "last_seen": "2026-11-17",
-   "title": "AI Transformation & Advisor Experience Lead",
+   "title": "AI Transformation & Advisor Experience",
    "company": "Guardian Life",
    "url": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/AI-Transformation---Advisor-Experienc-Lead_R000110419"
   },
@@ -1098,6 +1098,27 @@
    "title": "AI Productivity & Adoption Lead",
    "company": "PwC",
    "url": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/IL-Chicago/AI-Productivity---Adoption-Lead_774424WD-1"
+  },
+  "ashby:OpenAI:d5ee28a8-079f-4113-9430-79fb747877b6": {
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "title": "Enterprise Education GTM Lead",
+   "company": "OpenAI",
+   "url": "https://jobs.ashbyhq.com/openai/d5ee28a8-079f-4113-9430-79fb747877b6"
+  },
+  "ashby:OpenAI:04050b95-dde6-48c4-a5a2-1a9691560e82": {
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "title": "Advanced User Education Lead",
+   "company": "OpenAI",
+   "url": "https://jobs.ashbyhq.com/openai/04050b95-dde6-48c4-a5a2-1a9691560e82"
+  },
+  "greenhouse:Zoominfo:8947111002": {
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "title": "Senior Customer Experience Enablement Manager",
+   "company": "Zoominfo",
+   "url": "https://www.zoominfo.com/careers?gh_jid=8947111002"
   }
  }
 }
