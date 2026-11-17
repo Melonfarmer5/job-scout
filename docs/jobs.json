@@ -1,9 +1,41 @@
 {
- "generated": "2026-11-16T21:10:15+00:00",
+ "generated": "2026-11-17T05:13:14+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35916,
+ "postings_scanned": 35899,
  "matches": [
+  {
+   "key": "ashby:OpenAI:d78c0cd2-d0dd-4d81-8c18-3480df089b62",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Customer Education Adoption Lead",
+   "url": "https://jobs.ashbyhq.com/openai/d78c0cd2-d0dd-4d81-8c18-3480df089b62",
+   "location": "San Francisco; Remote; United States",
+   "posted": "2026-11-17",
+   "salary_min": 266000,
+   "salary_max": 295000,
+   "salary": "$266k–295k",
+   "years": null,
+   "where": "remote-us",
+   "first_seen": "2026-11-17",
+   "fresh": true
+  },
+  {
+   "key": "ashby:OpenAI:d6fac6f4-0b96-4c09-9349-9b7fc99a6547",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Builder Education",
+   "url": "https://jobs.ashbyhq.com/openai/d6fac6f4-0b96-4c09-9349-9b7fc99a6547",
+   "location": "San Francisco; Remote; United States",
+   "posted": "2026-11-17",
+   "salary_min": 207000,
+   "salary_max": 230000,
+   "salary": "$207k–230k",
+   "years": null,
+   "where": "remote-us",
+   "first_seen": "2026-11-17",
+   "fresh": true
+  },
   {
    "key": "greenhouse:Toast:8385953",
    "company": "Toast",
@@ -18,6 +50,38 @@
    "years": 4,
    "where": "remote-us",
    "first_seen": "2026-11-16",
+   "fresh": true
+  },
+  {
+   "key": "workday:PwC:AI-Productivity---Adoption-Lead_774424WD-1",
+   "company": "PwC",
+   "ats": "workday",
+   "title": "AI Productivity & Adoption Lead",
+   "url": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/IL-Chicago/AI-Productivity---Adoption-Lead_774424WD-1",
+   "location": "IL-Chicago; NC-Raleigh; NC-Charlotte; OH-Cincinnati; OH-Cleveland; SC-Columbia; OH-Columbus; TX-Dallas; MD-Baltimore; VA-Richmond; NY-Rochester; IL-Rosemont; CA-Sacramento; MA-Boston; MO-St. Louis; UT-Salt Lake City; TX-San Antonio; CA-San Diego; CA-San Francisco; CA-Silicon Valley; WA-Seattle; SC-Spartanburg; NY-Albany; CT-Stamford; FL-Tampa; GA-Atlanta; OH-Toledo; TX-Austin; OK-Tulsa; DC-Washington; CO-Denver; IA-Des Moines; MI-Detroit; FL-Boca Raton; NY-Buffalo; NJ-Florham Park; TX-Fort Worth; NC-Greensboro; CT-Hartford; TX-Houston; MI-Grand Rapids; IN-Indianapolis; CA-Irvine; FL-Jacksonville; MO-Kansas City; NV-Las Vegas; AR-Little Rock; CA-Los Angeles; KY-Louisville; AL-Birmingham; AR-Fayetteville; NY-Melville; FL-Miami; WI-Milwaukee; MN-Minneapolis; VT-Montpelier; TN-Nashville; LA-New Orleans; NY-New York; OK-Oklahoma City; FL-Orlando; PA-Philadelphia; AZ-Phoenix; PA-Pittsburgh; OR-Portland; United States of America",
+   "posted": "2026-11-16",
+   "salary_min": 99000,
+   "salary_max": 232000,
+   "salary": "$99k–232k",
+   "years": 5,
+   "where": "nyc",
+   "first_seen": "2026-11-17",
+   "fresh": true
+  },
+  {
+   "key": "greenhouse:GitLab:8943456002",
+   "company": "GitLab",
+   "ats": "greenhouse",
+   "title": "Enablement Operations Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8943456002",
+   "location": "Remote, United States; United States of America",
+   "posted": "2026-11-16",
+   "salary_min": 145600,
+   "salary_max": 218400,
+   "salary": "$146k–218k",
+   "years": null,
+   "where": "remote-us",
+   "first_seen": "2026-11-17",
    "fresh": true
   },
   {
@@ -325,6 +389,22 @@
    "fresh": true
   },
   {
+   "key": "greenhouse:Braze:8337945",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
+   "location": "New York City",
+   "posted": "2026-11-10",
+   "salary_min": 101000,
+   "salary_max": 160000,
+   "salary": "$101k–160k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": true
+  },
+  {
    "key": "greenhouse:Braze:8373990",
    "company": "Braze",
    "ats": "greenhouse",
@@ -357,22 +437,6 @@
    "fresh": true
   },
   {
-   "key": "greenhouse:Braze:8337945",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
-   "location": "New York City",
-   "posted": "2026-11-10",
-   "salary_min": 101000,
-   "salary_max": 160000,
-   "salary": "$101k–160k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": true
-  },
-  {
    "key": "workday:Fox Corporation:News-Trainee--6-Month-Training-Program_R50034263",
    "company": "Fox Corporation",
    "ats": "workday",
@@ -386,7 +450,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:EliseAI:ab2130bc-ec9a-46be-a609-61794072dd3d",
@@ -402,7 +466,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:Cohere:dc881634-ca66-46e5-90ff-43ad83080de2",
@@ -418,7 +482,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:cruxclimate:462cdec5-1cea-4996-94fc-a2266391a13c",
@@ -2431,21 +2495,6 @@
    "reason": "Too senior (asks for 8+ years)"
   },
   {
-   "key": "workday:Workday:Principal-Grants-Management-Implementation-Consultant--Higher-Education_JR-0110995",
-   "company": "Workday",
-   "ats": "workday",
-   "title": "Principal Grants Management Implementation Consultant, Higher Education",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-Remote/Principal-Grants-Management-Implementation-Consultant--Higher-Education_JR-0110995",
-   "location": "USA Remote; Flex; United States of America",
-   "posted": "2026-11-10",
-   "salary_min": 133300,
-   "salary_max": 236900,
-   "salary": "$133k–237k",
-   "years": 6,
-   "where": "remote-us",
-   "reason": "Too senior (title says Principal)"
-  },
-  {
    "key": "workday:Citi:AI-Adoption---Commercialization-Senior-Lead---Senior-Vice-President_26995884",
    "company": "Citi",
    "ats": "workday",
@@ -2609,21 +2658,6 @@
    "years": 5,
    "where": "nyc",
    "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "workday:BlackRock:Vice-President--Americas-Regional-Lead---Early-Careers-Learning---Development_R266691",
-   "company": "BlackRock",
-   "ats": "workday",
-   "title": "Vice President, Americas Regional Lead - Early Careers Learning & Development",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Vice-President--Americas-Regional-Lead---Early-Careers-Learning---Development_R266691",
-   "location": "New York, NY; United States of America",
-   "posted": "2026-11-06",
-   "salary_min": 135000,
-   "salary_max": 190000,
-   "salary": "$135k–190k",
-   "years": null,
-   "where": "nyc",
-   "reason": "Too senior (title says Vice President)"
   },
   {
    "key": "greenhouse:Robinhood:8356970",
@@ -3044,21 +3078,6 @@
    "years": null,
    "where": "remote?",
    "reason": "Too senior (title says Director)"
-  },
-  {
-   "key": "greenhouse:Samsara:8250348",
-   "company": "Samsara",
-   "ats": "greenhouse",
-   "title": "Senior Instructional Designer",
-   "url": "https://www.samsara.com/company/careers/roles/8250348?gh_jid=8250348",
-   "location": "Remote - Austin; Remote - CA; Remote - Chicago; Remote - Dallas; Remote - Houston; Remote - Seattle; Remote - GA",
-   "posted": "2026-10-14",
-   "salary_min": 76457,
-   "salary_max": 115650,
-   "salary": "$76k–116k",
-   "years": 3,
-   "where": "remote?",
-   "reason": "Pay too low (tops out at $116k)"
   },
   {
    "key": "workday:PwC:Sales-Director--D365-Alliance---Sales-Enablement_767696WD",
