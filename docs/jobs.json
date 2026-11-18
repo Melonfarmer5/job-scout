@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T19:56:30+00:00",
+ "generated": "2026-11-18T04:30:51+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35881,
+ "postings_scanned": 35902,
  "matches": [
   {
    "key": "greenhouse:Zoominfo:8947111002",
@@ -26,13 +26,13 @@
    "ats": "ashby",
    "title": "Customer Education Adoption Lead",
    "url": "https://jobs.ashbyhq.com/openai/d78c0cd2-d0dd-4d81-8c18-3480df089b62",
-   "location": "San Francisco; Remote; United States",
+   "location": "San Francisco; New York City; Remote; United States",
    "posted": "2026-11-17",
    "salary_min": 266000,
    "salary_max": 295000,
    "salary": "$266k–295k",
    "years": null,
-   "where": "remote-us",
+   "where": "nyc",
    "first_seen": "2026-11-17",
    "fresh": true
   },
@@ -42,13 +42,13 @@
    "ats": "ashby",
    "title": "Enterprise Education GTM Lead",
    "url": "https://jobs.ashbyhq.com/openai/d5ee28a8-079f-4113-9430-79fb747877b6",
-   "location": "San Francisco; Remote; United States",
+   "location": "San Francisco; New York City; Remote; United States",
    "posted": "2026-11-17",
    "salary_min": 266000,
    "salary_max": 295000,
    "salary": "$266k–295k",
    "years": null,
-   "where": "remote-us",
+   "where": "nyc",
    "first_seen": "2026-11-17",
    "fresh": true
   },
@@ -58,13 +58,13 @@
    "ats": "ashby",
    "title": "Builder Education",
    "url": "https://jobs.ashbyhq.com/openai/d6fac6f4-0b96-4c09-9349-9b7fc99a6547",
-   "location": "San Francisco; Remote; United States",
+   "location": "San Francisco; New York City; Remote; United States",
    "posted": "2026-11-17",
    "salary_min": 207000,
    "salary_max": 230000,
    "salary": "$207k–230k",
    "years": null,
-   "where": "remote-us",
+   "where": "nyc",
    "first_seen": "2026-11-17",
    "fresh": true
   },
@@ -74,13 +74,13 @@
    "ats": "ashby",
    "title": "Advanced User Education Lead",
    "url": "https://jobs.ashbyhq.com/openai/04050b95-dde6-48c4-a5a2-1a9691560e82",
-   "location": "San Francisco; Remote; United States",
+   "location": "San Francisco; New York City; Remote; United States",
    "posted": "2026-11-17",
    "salary_min": 207000,
    "salary_max": 230000,
    "salary": "$207k–230k",
    "years": null,
-   "where": "remote-us",
+   "where": "nyc",
    "first_seen": "2026-11-17",
    "fresh": true
   },
@@ -338,7 +338,7 @@
    "years": null,
    "where": "remote?",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:elevenlabs:820e5023-c637-4b36-91a9-f732f235998e",
@@ -354,7 +354,7 @@
    "years": null,
    "where": "remote?",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:PwC:AI-Productivity---Adoption-Lead_773184WD",
@@ -370,7 +370,7 @@
    "years": 5,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:Notion:e4b7c4d5-9c71-4f82-bf32-0af60e1f2a9f",
@@ -386,7 +386,7 @@
    "years": 7,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Navan:8369935",
@@ -402,7 +402,7 @@
    "years": 5,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:Clay:4ad300ac-8c5f-4485-95d9-f1e9377c2243",
@@ -418,7 +418,7 @@
    "years": 4,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Chime:8928783002",
@@ -434,39 +434,7 @@
    "years": null,
    "where": "remote-us",
    "first_seen": "",
-   "fresh": true
-  },
-  {
-   "key": "greenhouse:Braze:8337945",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
-   "location": "New York City",
-   "posted": "2026-11-10",
-   "salary_min": 101000,
-   "salary_max": 160000,
-   "salary": "$101k–160k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": true
-  },
-  {
-   "key": "greenhouse:Braze:8373965",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
-   "location": "San Francisco; New York City",
-   "posted": "2026-11-10",
-   "salary_min": 101000,
-   "salary_max": 160000,
-   "salary": "$101k–160k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Braze:8373990",
@@ -482,7 +450,39 @@
    "years": 7,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Braze:8337945",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
+   "location": "New York City",
+   "posted": "2026-11-10",
+   "salary_min": 101000,
+   "salary_max": 160000,
+   "salary": "$101k–160k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Braze:8373965",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
+   "location": "San Francisco; New York City",
+   "posted": "2026-11-10",
+   "salary_min": 101000,
+   "salary_max": 160000,
+   "salary": "$101k–160k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
   },
   {
    "key": "workday:Fox Corporation:News-Trainee--6-Month-Training-Program_R50034263",
@@ -565,22 +565,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Ridgeline:8197847003",
-   "company": "Ridgeline",
-   "ats": "greenhouse",
-   "title": "Field Services Enablement Specialist, Technical Consulting",
-   "url": "https://boards.greenhouse.io/ridgeline/jobs/8197847003?gh_jid=8197847003",
-   "location": "Reno, NV; New York, NY; San Ramon, CA; Remote; New York City; Remote - USA; Reno; San Ramon",
-   "posted": "2026-11-06",
-   "salary_min": 143000,
-   "salary_max": 197000,
-   "salary": "$143k–197k",
-   "years": 5,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Gong:4725063006",
    "company": "Gong",
    "ats": "greenhouse",
@@ -618,13 +602,13 @@
    "ats": "ashby",
    "title": "User Education Lead",
    "url": "https://jobs.ashbyhq.com/openai/654f8dde-2ccb-4349-aeb7-40f454f28cce",
-   "location": "San Francisco; Remote; United States",
+   "location": "San Francisco; New York City; Remote; United States",
    "posted": "2026-11-05",
    "salary_min": 207000,
    "salary_max": 295000,
    "salary": "$207k–295k",
    "years": null,
-   "where": "remote-us",
+   "where": "nyc",
    "first_seen": "",
    "fresh": false
   },
@@ -1029,22 +1013,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:8009631003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
-   "location": "Remote Canada; Remote US",
-   "posted": "2026-10-27",
-   "salary_min": 128000,
-   "salary_max": 188000,
-   "salary": "$128k–188k",
-   "years": 7,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:8009629003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1055,6 +1023,22 @@
    "salary_min": 146000,
    "salary_max": 225000,
    "salary": "$146k–225k",
+   "years": 7,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:8009631003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
+   "location": "Remote Canada; Remote US",
+   "posted": "2026-10-27",
+   "salary_min": 128000,
+   "salary_max": 188000,
+   "salary": "$128k–188k",
    "years": 7,
    "where": "remote-us",
    "first_seen": "",
@@ -1861,22 +1845,6 @@
    "fresh": false
   },
   {
-   "key": "workday:Clio:GTM-AI-Transformation-Manager_BF-REQ-4126",
-   "company": "Clio",
-   "ats": "workday",
-   "title": "Sales Enablement Manager, Strategic & Mid-Market",
-   "url": "https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Remote---USA/GTM-AI-Transformation-Manager_BF-REQ-4126",
-   "location": "Remote - USA; Vancouver; Toronto; Calgary; United States of America",
-   "posted": "2026-08-27",
-   "salary_min": 130600,
-   "salary_max": 195800,
-   "salary": "$131k–196k",
-   "years": 5,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "workday:AIG:AI-Sandbox-Product-Owner--GenAI_JR2601795-1",
    "company": "AIG",
    "ats": "workday",
@@ -1904,22 +1872,6 @@
    "salary_max": null,
    "salary": "Not listed",
    "years": 1,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "ashby:sitecore:faed29ee-2ef2-4052-9624-b22033a0edb8",
-   "company": "sitecore",
-   "ats": "ashby",
-   "title": "Learning Experience Designer",
-   "url": "https://jobs.ashbyhq.com/sitecore/faed29ee-2ef2-4052-9624-b22033a0edb8",
-   "location": "Kuala Lumpur; Remote; Malaysia",
-   "posted": "2026-08-24",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 2,
    "where": "remote?",
    "first_seen": "",
    "fresh": false
@@ -2309,22 +2261,6 @@
    "fresh": false
   },
   {
-   "key": "ashby:Cognition:ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
-   "company": "Cognition",
-   "ats": "ashby",
-   "title": "Applied AI Transformation Manager",
-   "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
-   "location": "San Francisco; New York City; United States",
-   "posted": "2025-07-11",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 2,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "ashby:Cohere:859e2e47-02fb-4afe-bb8a-e83bf4d8c265",
    "company": "Cohere",
    "ats": "ashby",
@@ -2374,6 +2310,21 @@
   }
  ],
  "skipped": [
+  {
+   "key": "workday:Workday:Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
+   "company": "Workday",
+   "ats": "workday",
+   "title": "Senior Technical Consultant, Integrations – Higher Education & Nonprofit",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-Remote/Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
+   "location": "USA Remote; Flex; United States of America",
+   "posted": "2026-11-17",
+   "salary_min": 111000,
+   "salary_max": 197300,
+   "salary": "$111k–197k",
+   "years": 8,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 8+ years)"
+  },
   {
    "key": "smartrecruiters:Equinox:744000162154388",
    "company": "Equinox",
@@ -2465,21 +2416,6 @@
    "reason": "Too senior (title says Principal)"
   },
   {
-   "key": "workday:Nvidia:Technical-Program-Manager--OEM-Enablement_JR2028754",
-   "company": "Nvidia",
-   "ats": "workday",
-   "title": "Senior Technical Program Manager, OEM Enablement",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--OEM-Enablement_JR2028754",
-   "location": "US, CA, Santa Clara; US, SC, Remote; United States of America",
-   "posted": "2026-11-12",
-   "salary_min": 200000,
-   "salary_max": 322000,
-   "salary": "$200k–322k",
-   "years": 12,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 12+ years)"
-  },
-  {
    "key": "workday:Pfizer:Manager--CX-Adoption_4967559-1",
    "company": "Pfizer",
    "ats": "workday",
@@ -2508,21 +2444,6 @@
    "years": 10,
    "where": "nyc",
    "reason": "Too senior (asks for 10+ years)"
-  },
-  {
-   "key": "workday:Workday:Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
-   "company": "Workday",
-   "ats": "workday",
-   "title": "Senior Technical Consultant, Integrations – Higher Education & Nonprofit",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-Remote/Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
-   "location": "USA Remote; Flex; United States of America",
-   "posted": "2026-11-10",
-   "salary_min": 111000,
-   "salary_max": 197300,
-   "salary": "$111k–197k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
   },
   {
    "key": "workday:Citi:AI-Adoption---Commercialization-Senior-Lead---Senior-Vice-President_26995884",
@@ -2780,21 +2701,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Affirm:8043923003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Leadership Development Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043923003",
-   "location": "Remote Canada; Remote US",
-   "posted": "2026-11-03",
-   "salary_min": 112000,
-   "salary_max": 172000,
-   "salary": "$112k–172k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "greenhouse:Affirm:8043921003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -2805,6 +2711,21 @@
    "salary_min": 128000,
    "salary_max": 205000,
    "salary": "$128k–205k",
+   "years": 8,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "greenhouse:Affirm:8043923003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Leadership Development Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043923003",
+   "location": "Remote Canada; Remote US",
+   "posted": "2026-11-03",
+   "salary_min": 112000,
+   "salary_max": 172000,
+   "salary": "$112k–172k",
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (asks for 8+ years)"
