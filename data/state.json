@@ -675,7 +675,7 @@
   "ashby:OpenAI:4885f56d-9f59-4c40-81d8-c33a167cb26c": {
    "first_seen": "",
    "last_seen": "2026-11-19",
-   "title": "Product Designer, Higher Education",
+   "title": "Product Designer, Education",
    "company": "OpenAI",
    "url": "https://jobs.ashbyhq.com/openai/4885f56d-9f59-4c40-81d8-c33a167cb26c"
   },
@@ -1133,6 +1133,27 @@
    "title": "Senior Manager, AI Transformation (HR & Operations)",
    "company": "1password",
    "url": "https://jobs.ashbyhq.com/1password/a835fee8-dc26-44de-87bd-39e081291857"
+  },
+  "lever:Hinge:7a1f5de4-a506-4c6d-ac13-baed6ab0fae0": {
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "title": "Sr. Program Manager, Learning",
+   "company": "Hinge",
+   "url": "https://jobs.lever.co/matchgroup/7a1f5de4-a506-4c6d-ac13-baed6ab0fae0"
+  },
+  "workday:Fox Corporation:Good-Day-New-York-Trainee--6-Month-Training-Program_R50034317": {
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "title": "Good Day New York Trainee, 6-Month Training Program",
+   "company": "Fox Corporation",
+   "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034317"
+  },
+  "workday:Fox Corporation:Good-Day-New-York-Trainee--6-Month-Training-Program_R50034316": {
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "title": "Good Day New York Trainee, 6-Month Training Program",
+   "company": "Fox Corporation",
+   "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034316"
   }
  }
 }
