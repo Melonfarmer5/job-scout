@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T19:29:31+00:00",
- "companies_checked": 278,
+ "generated": "2026-11-19T04:18:06+00:00",
+ "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35891,
+ "postings_scanned": 35888,
  "matches": [
   {
    "key": "workday:Morgan Stanley:Onboarding-Project-Manager--AVP_PT-JR046885",
@@ -18,6 +18,38 @@
    "years": 2,
    "where": "nyc",
    "first_seen": "2026-11-18",
+   "fresh": true
+  },
+  {
+   "key": "workday:Fox Corporation:Programming---Executive-Assistant--FOX-Nation---Talent-Development_R50034106",
+   "company": "Fox Corporation",
+   "ats": "workday",
+   "title": "Programming & Executive Assistant, FOX Nation & Talent Development",
+   "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Programming---Executive-Assistant--FOX-Nation---Talent-Development_R50034106",
+   "location": "New York, New York, USA; Onsite; United States of America",
+   "posted": "2026-11-18",
+   "salary_min": null,
+   "salary_max": null,
+   "salary": "Not listed",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": true
+  },
+  {
+   "key": "ashby:1password:a835fee8-dc26-44de-87bd-39e081291857",
+   "company": "1password",
+   "ats": "ashby",
+   "title": "Senior Manager, AI Transformation (HR & Operations)",
+   "url": "https://jobs.ashbyhq.com/1password/a835fee8-dc26-44de-87bd-39e081291857",
+   "location": "Remote (United States | Canada); Remote",
+   "posted": "2026-11-18",
+   "salary_min": 159000,
+   "salary_max": 231000,
+   "salary": "$159k–231k",
+   "years": null,
+   "where": "remote-us",
+   "first_seen": "2026-11-19",
    "fresh": true
   },
   {
@@ -96,22 +128,6 @@
    "salary_max": 230000,
    "salary": "$207k–230k",
    "years": null,
-   "where": "nyc",
-   "first_seen": "2026-11-17",
-   "fresh": true
-  },
-  {
-   "key": "workday:PwC:AI-Productivity---Adoption-Lead_774424WD-1",
-   "company": "PwC",
-   "ats": "workday",
-   "title": "AI Productivity & Adoption Lead",
-   "url": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/IL-Chicago/AI-Productivity---Adoption-Lead_774424WD-1",
-   "location": "IL-Chicago; NC-Raleigh; NC-Charlotte; OH-Cincinnati; OH-Cleveland; SC-Columbia; OH-Columbus; TX-Dallas; MD-Baltimore; VA-Richmond; NY-Rochester; IL-Rosemont; CA-Sacramento; MA-Boston; MO-St. Louis; UT-Salt Lake City; TX-San Antonio; CA-San Diego; CA-San Francisco; CA-Silicon Valley; WA-Seattle; SC-Spartanburg; NY-Albany; CT-Stamford; FL-Tampa; GA-Atlanta; OH-Toledo; TX-Austin; OK-Tulsa; DC-Washington; CO-Denver; IA-Des Moines; MI-Detroit; FL-Boca Raton; NY-Buffalo; NJ-Florham Park; TX-Fort Worth; NC-Greensboro; CT-Hartford; TX-Houston; MI-Grand Rapids; IN-Indianapolis; CA-Irvine; FL-Jacksonville; MO-Kansas City; NV-Las Vegas; AR-Little Rock; CA-Los Angeles; KY-Louisville; AL-Birmingham; AR-Fayetteville; NY-Melville; FL-Miami; WI-Milwaukee; MN-Minneapolis; VT-Montpelier; TN-Nashville; LA-New Orleans; NY-New York; OK-Oklahoma City; FL-Orlando; PA-Philadelphia; AZ-Phoenix; PA-Pittsburgh; OR-Portland; United States of America",
-   "posted": "2026-11-16",
-   "salary_min": 99000,
-   "salary_max": 232000,
-   "salary": "$99k–232k",
-   "years": 5,
    "where": "nyc",
    "first_seen": "2026-11-17",
    "fresh": true
@@ -274,7 +290,7 @@
    "years": 3,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:Docker:98ec5d62-88ad-47f0-9d6f-aeb624e3caed",
@@ -290,7 +306,7 @@
    "years": null,
    "where": "remote-us",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:elevenlabs:7a235499-7cee-48f5-9fe4-3f4764b91865",
@@ -421,22 +437,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Braze:8373990",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
-   "location": "Chicago; New York City",
-   "posted": "2026-11-10",
-   "salary_min": 96000,
-   "salary_max": 150000,
-   "salary": "$96k–150k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Braze:8373965",
    "company": "Braze",
    "ats": "greenhouse",
@@ -447,6 +447,22 @@
    "salary_min": 101000,
    "salary_max": 160000,
    "salary": "$101k–160k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Braze:8373990",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
+   "location": "Chicago; New York City",
+   "posted": "2026-11-10",
+   "salary_min": 96000,
+   "salary_max": 150000,
+   "salary": "$96k–150k",
    "years": 7,
    "where": "nyc",
    "first_seen": "",
@@ -911,22 +927,6 @@
    "salary_min": 110000,
    "salary_max": 180000,
    "salary": "$110k–180k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "workday:Fox Corporation:Programming---Executive-Assistant--FOX-Nation---Talent-Development_R50034106",
-   "company": "Fox Corporation",
-   "ats": "workday",
-   "title": "Programming & Executive Assistant, FOX Nation & Talent Development",
-   "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Programming---Executive-Assistant--FOX-Nation---Talent-Development_R50034106",
-   "location": "New York, New York, USA; Onsite; United States of America",
-   "posted": "2026-10-28",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
    "years": null,
    "where": "nyc",
    "first_seen": "",
@@ -1733,38 +1733,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Samsara:8177633",
-   "company": "Samsara",
-   "ats": "greenhouse",
-   "title": "Senior Product Training Specialist",
-   "url": "https://www.samsara.com/company/careers/roles/8177633?gh_jid=8177633",
-   "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX; Remote - GA",
-   "posted": "2026-09-03",
-   "salary_min": 80622,
-   "salary_max": 121950,
-   "salary": "$81k–122k",
-   "years": 3,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:Samsara:8177646",
-   "company": "Samsara",
-   "ats": "greenhouse",
-   "title": "Senior Scaled Customer Education Specialist",
-   "url": "https://www.samsara.com/company/careers/roles/8177646?gh_jid=8177646",
-   "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX; Remote - GA",
-   "posted": "2026-09-03",
-   "salary_min": 80622,
-   "salary_max": 121950,
-   "salary": "$81k–122k",
-   "years": 3,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Justworks:8157872",
    "company": "Justworks",
    "ats": "greenhouse",
@@ -2005,22 +1973,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Samsara:7822470",
-   "company": "Samsara",
-   "ats": "greenhouse",
-   "title": "Senior Training Specialist",
-   "url": "https://www.samsara.com/company/careers/roles/7822470?gh_jid=7822470",
-   "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX; Remote - GA",
-   "posted": "2026-06-12",
-   "salary_min": 80622,
-   "salary_max": 121950,
-   "salary": "$81k–122k",
-   "years": 3,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "workday:Dow Jones:Sales-Enablement-Marketing-Manager_Job_Req_53488",
    "company": "Dow Jones",
    "ats": "workday",
@@ -2247,6 +2199,21 @@
  ],
  "skipped": [
   {
+   "key": "ashby:OpenAI:13e09206-133e-464a-a8d4-d306c203be03",
+   "company": "OpenAI",
+   "ats": "ashby",
+   "title": "Enablement Lead - EDU",
+   "url": "https://jobs.ashbyhq.com/openai/13e09206-133e-464a-a8d4-d306c203be03",
+   "location": "San Francisco; Remote; United States",
+   "posted": "2026-11-19",
+   "salary_min": 207000,
+   "salary_max": 230000,
+   "salary": "$207k–230k",
+   "years": 10,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 10+ years)"
+  },
+  {
    "key": "greenhouse:Toast:8381022",
    "company": "Toast",
    "ats": "greenhouse",
@@ -2260,6 +2227,36 @@
    "years": 3,
    "where": "remote-us",
    "reason": "Pay too low (tops out at $80k)"
+  },
+  {
+   "key": "workday:Pfizer:PSL-D-Compliance-Training-Ops---Business-Lead--Manager-_4966357-1",
+   "company": "Pfizer",
+   "ats": "workday",
+   "title": "PSL&D Compliance Training Ops & Business Lead (Manager)",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Connecticut---Groton/PSL-D-Compliance-Training-Ops---Business-Lead--Manager-_4966357-1",
+   "location": "United States - Connecticut - Groton; United States - New York - Pearl River; United States - Massachusetts - Andover; United States - New York - New York City; United States - Pennsylvania - Collegeville; United States of America",
+   "posted": "2026-11-18",
+   "salary_min": 88500,
+   "salary_max": 147500,
+   "salary": "$88k–148k",
+   "years": 10,
+   "where": "nyc",
+   "reason": "Too senior (asks for 10+ years)"
+  },
+  {
+   "key": "workday:Morgan Stanley:VP--Department-Manager--Client-Onboarding_PT-JR046231-2",
+   "company": "Morgan Stanley",
+   "ats": "workday",
+   "title": "VP, Department Manager- Client Onboarding",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/1-New-York-Plaza/VP--Department-Manager--Client-Onboarding_PT-JR046231-2",
+   "location": "1 New York Plaza; United States of America",
+   "posted": "2026-11-18",
+   "salary_min": 152000,
+   "salary_max": 233000,
+   "salary": "$152k–233k",
+   "years": 8,
+   "where": "nyc",
+   "reason": "Too senior (title says VP)"
   },
   {
    "key": "ashby:Harvey:e1a075aa-509b-4b6f-b19f-269f38df5fc1",
@@ -2290,6 +2287,21 @@
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "workday:Citi:Director---AI-Implementation-Lead---Citi-COO-Corporate-Enablement-Capabilities-Team_26996930",
+   "company": "Citi",
+   "ats": "workday",
+   "title": "Director - AI Implementation Lead - Citi COO Corporate Enablement Capabilities Team",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Director---AI-Implementation-Lead---Citi-COO-Corporate-Enablement-Capabilities-Team_26996930",
+   "location": "New York New York United States; Tampa Florida United States; Hybrid; United States of America",
+   "posted": "2026-11-18",
+   "salary_min": 170000,
+   "salary_max": 300000,
+   "salary": "$170k–300k",
+   "years": 10,
+   "where": "nyc",
+   "reason": "Too senior (title says Director)"
   },
   {
    "key": "workday:Workday:Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
@@ -2502,21 +2514,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "workday:Pfizer:PSL-D-Compliance-Training-Ops---Business-Lead--Manager-_4966357-1",
-   "company": "Pfizer",
-   "ats": "workday",
-   "title": "PSL&D Compliance Training Ops & Business Lead (Manager)",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Connecticut---Groton/PSL-D-Compliance-Training-Ops---Business-Lead--Manager-_4966357-1",
-   "location": "United States - Connecticut - Groton; United States - New York - Pearl River; United States - Massachusetts - Andover; United States - New York - New York City; United States - Pennsylvania - Collegeville; United States of America",
-   "posted": "2026-11-09",
-   "salary_min": 88500,
-   "salary_max": 147500,
-   "salary": "$88k–148k",
-   "years": 8,
-   "where": "nyc",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "ashby:OpenAI:dceee17e-1e37-448b-acd3-2f97e41a6af7",
    "company": "OpenAI",
    "ats": "ashby",
@@ -2532,21 +2529,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Justworks:8359309",
-   "company": "Justworks",
-   "ats": "greenhouse",
-   "title": "Manager, International Onboarding (EOR)",
-   "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
-   "location": "Mexico City, Mexico; New York, NY",
-   "posted": "2026-11-06",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 8,
-   "where": "nyc",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "greenhouse:Justworks:8359307",
    "company": "Justworks",
    "ats": "greenhouse",
@@ -2557,6 +2539,21 @@
    "salary_min": 109000,
    "salary_max": 136000,
    "salary": "$109k–136k",
+   "years": 8,
+   "where": "nyc",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "greenhouse:Justworks:8359309",
+   "company": "Justworks",
+   "ats": "greenhouse",
+   "title": "Manager, International Onboarding (EOR)",
+   "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
+   "location": "Mexico City, Mexico; New York, NY",
+   "posted": "2026-11-06",
+   "salary_min": null,
+   "salary_max": null,
+   "salary": "Not listed",
    "years": 8,
    "where": "nyc",
    "reason": "Too senior (asks for 8+ years)"
@@ -3481,11 +3478,6 @@
   {
    "company": "Bilt Rewards",
    "ats": "greenhouse",
-   "error": "HTTP 404"
-  },
-  {
-   "company": "Chief",
-   "ats": "ashby",
    "error": "HTTP 404"
   },
   {
