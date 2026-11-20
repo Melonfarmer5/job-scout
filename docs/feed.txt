@@ -1,5 +1,5 @@
-JOB SCOUT FEED generated 2026-11-19T19:33:30+00:00
-Checked 279 of 292 companies. 139 open matches, 20 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-20T04:03:24+00:00
+Checked 279 of 292 companies. 137 open matches, 16 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-19 | Fox Corporation | Good Day New York Trainee, 6-Month Training Program | New York, New York, USA; Onsite; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034317
@@ -18,7 +18,3 @@ Each line: posted date | company | title | location | salary | years asked | url
 2026-11-14 | Harvey | Program Manager, Customer Education | New York; Remote; USA | $121k–166k | yrs n/a | https://jobs.ashbyhq.com/harvey/8933bce6-f85b-4a74-9530-d5c8916af055
 2026-11-13 | CLEAR | Revenue Enablement Manager (CLEAR1 - B2B) | New York, New York, United States; NYHQ | $120k–150k | yrs n/a | https://job-boards.greenhouse.io/clear/jobs/8385720
 2026-11-13 | Abridge | Member of Product Staff, Foundation Models & Post-Training | SF Office; Remote; USA | $250k–290k | 7+ yrs | https://jobs.ashbyhq.com/Abridge/5b66aac3-cb7a-4bbc-a28c-9fb38cf16656
-2026-11-12 | Wiley | Senior Manager, AI Training & Enablement | Hoboken (HQ), NJ, USA; Remote, Weinheim, DEU; Remote, VA, USA; Weinheim, DEU; London, GBR; Cary, NC, USA; Remote, NC, USA; Remote, NJ, USA; Remote, NY, USA; Oxford, GBR; Remote, MA, USA; Hybrid; United States of America | $89k–128k | 5+ yrs | https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Manager--AI-Training---Enablement_R2601581
-2026-11-12 | Salesforce | Learning Experience Design Senior Analyst | Texas - Houston Metro - Remote; Washington - Seattle Metro - Remote; Washington - Seattle; Washington D.C. - Remote; Illinois - Remote; Office - Flexible; United States of America | $94k–142k | 5+ yrs | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Houston-Metro---Remote/Learning-Experience-Design-Senior-Analyst_JR367256
-2026-11-12 | S&P Global | Learning Partner | New York, NY; United States of America | $104k–142k | yrs n/a | https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Learning-Partner_332553-1
-2026-11-12 | Ramp | Risk Operations Specialist, Onboarding | New York, NY (HQ); San Francisco, CA; Remote (US); Remote; USA | $100k–155k | 1+ yrs | https://jobs.ashbyhq.com/ramp/55bd9ab4-8edc-4493-b577-4277ad2f9ae6

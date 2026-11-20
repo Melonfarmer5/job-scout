@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T19:33:30+00:00",
+ "generated": "2026-11-20T04:03:24+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35893,
+ "postings_scanned": 35934,
  "matches": [
   {
    "key": "workday:Fox Corporation:Good-Day-New-York-Trainee--6-Month-Training-Program_R50034317",
@@ -274,7 +274,7 @@
    "years": 5,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:Salesforce:Learning-Experience-Design-Senior-Analyst_JR367256",
@@ -290,7 +290,7 @@
    "years": 5,
    "where": "remote-us",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:S&P Global:Learning-Partner_332553-1",
@@ -306,7 +306,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:Ramp:55bd9ab4-8edc-4493-b577-4277ad2f9ae6",
@@ -320,22 +320,6 @@
    "salary_max": 155000,
    "salary": "$100k–155k",
    "years": 1,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": true
-  },
-  {
-   "key": "workday:PwC:NextGen-Change--Change-Management--Senior-Associate_773414WD",
-   "company": "PwC",
-   "ats": "workday",
-   "title": "NextGen Change- Change Management- Senior Associate",
-   "url": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/NextGen-Change--Change-Management--Senior-Associate_773414WD",
-   "location": "NY-New York; CA-Los Angeles; GA-Atlanta; IL-Chicago; UT-Salt Lake City; TX-Dallas; CA-San Francisco; WA-Seattle; United States of America",
-   "posted": "2026-11-11",
-   "salary_min": 77000,
-   "salary_max": 202000,
-   "salary": "$77k–202k",
-   "years": 3,
    "where": "nyc",
    "first_seen": "",
    "fresh": false
@@ -485,22 +469,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Braze:8373965",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
-   "location": "San Francisco; New York City",
-   "posted": "2026-11-10",
-   "salary_min": 101000,
-   "salary_max": 160000,
-   "salary": "$101k–160k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Braze:8373990",
    "company": "Braze",
    "ats": "greenhouse",
@@ -511,6 +479,22 @@
    "salary_min": 96000,
    "salary_max": 150000,
    "salary": "$96k–150k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Braze:8373965",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
+   "location": "San Francisco; New York City",
+   "posted": "2026-11-10",
+   "salary_min": 101000,
+   "salary_max": 160000,
+   "salary": "$101k–160k",
    "years": 7,
    "where": "nyc",
    "first_seen": "",
@@ -997,22 +981,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:8009631003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
-   "location": "Remote Canada; Remote US",
-   "posted": "2026-10-27",
-   "salary_min": 128000,
-   "salary_max": 188000,
-   "salary": "$128k–188k",
-   "years": 7,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:8009629003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1023,6 +991,22 @@
    "salary_min": 146000,
    "salary_max": 225000,
    "salary": "$146k–225k",
+   "years": 7,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:8009631003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
+   "location": "Remote Canada; Remote US",
+   "posted": "2026-10-27",
+   "salary_min": 128000,
+   "salary_max": 188000,
+   "salary": "$128k–188k",
    "years": 7,
    "where": "remote-us",
    "first_seen": "",
@@ -1605,22 +1589,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Clear Street:8227285",
-   "company": "Clear Street",
-   "ats": "greenhouse",
-   "title": "Senior Associate - Client Onboarding",
-   "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8227285",
-   "location": "New York, NY; New York",
-   "posted": "2026-09-23",
-   "salary_min": 110000,
-   "salary_max": 135000,
-   "salary": "$110k–135k",
-   "years": 3,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Blink Health:8837000002",
    "company": "Blink Health",
    "ats": "greenhouse",
@@ -1829,22 +1797,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:7860703003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
-   "location": "Remote US; Remote Canada",
-   "posted": "2026-08-24",
-   "salary_min": 115000,
-   "salary_max": 180000,
-   "salary": "$115k–180k",
-   "years": 5,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:7860705003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1855,6 +1807,22 @@
    "salary_min": 101000,
    "salary_max": 151000,
    "salary": "$101k–151k",
+   "years": 5,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:7860703003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
+   "location": "Remote US; Remote Canada",
+   "posted": "2026-08-24",
+   "salary_min": 115000,
+   "salary_max": 180000,
+   "salary": "$115k–180k",
    "years": 5,
    "where": "remote-us",
    "first_seen": "",
@@ -2230,6 +2198,21 @@
   }
  ],
  "skipped": [
+  {
+   "key": "workday:TIAA:Director--Field-Enablement_R260900401-2",
+   "company": "TIAA",
+   "ats": "workday",
+   "title": "Director, Field Enablement",
+   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Director--Field-Enablement_R260900401-2",
+   "location": "Dallas, TX, USA; Charlotte, NC, USA; Chicago, IL - 333 West Wacker Drive; New York, NY - 730 Third Avenue; Hybrid Flex; United States of America",
+   "posted": "2026-11-19",
+   "salary_min": null,
+   "salary_max": null,
+   "salary": "Not listed",
+   "years": null,
+   "where": "nyc",
+   "reason": "Too senior (title says Director)"
+  },
   {
    "key": "workday:Pfizer:PSL-D-Compliance-Training-Ops---Business-Lead--Manager-_4966357-1",
    "company": "Pfizer",
@@ -3249,21 +3232,6 @@
    "years": 12,
    "where": "remote-us",
    "reason": "Too senior (title says Head of)"
-  },
-  {
-   "key": "greenhouse:Clear Street:8227249",
-   "company": "Clear Street",
-   "ats": "greenhouse",
-   "title": "Associate - Client Onboarding",
-   "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8227249",
-   "location": "New York, NY; New York",
-   "posted": "2026-09-23",
-   "salary_min": 95000,
-   "salary_max": 110000,
-   "salary": "$95k–110k",
-   "years": 2,
-   "where": "nyc",
-   "reason": "Pay too low (tops out at $110k)"
   },
   {
    "key": "workday:Neuberger Berman:Private-Wealth-Business-Enablement-Officer_R0011386",
