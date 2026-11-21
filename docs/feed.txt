@@ -1,9 +1,11 @@
-JOB SCOUT FEED generated 2026-11-20T19:11:04+00:00
-Checked 279 of 292 companies. 138 open matches, 17 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-21T04:04:32+00:00
+Checked 279 of 292 companies. 136 open matches, 17 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-20 | Stripe | AI Transformation Lead, Marketing | San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US; US | Not listed | 5+ yrs | https://stripe.com/jobs/search?gh_jid=8287910
 2026-11-20 | Robinhood | Education Lead | Menlo Park, CA; New York, NY; London, UK; Menlo Park, CA; New York, NY | $113k–170k | 6+ yrs | https://boards.greenhouse.io/robinhood/jobs/8404475?t=gh_src=&gh_jid=8404475
+2026-11-20 | Guardian Life | Service Enablement AI Agent Owner (Hybrid) | Bethlehem; New York; Boston; Pittsfield; Hybrid - In office 3 days per week; United States of America | $101k–166k | yrs n/a | https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/Bethlehem/Service-Enablement-AI-Agent-Owner--Hybrid-_R000110628-1
+2026-11-20 | Databricks | Industry Executive, Intel Community (AI Transformation) | Remote - Washington D.C.; Remote - Virginia | $353k–486k | yrs n/a | https://databricks.com/company/careers/open-positions/job?gh_jid=8948986002
 2026-11-19 | Fox Corporation | Good Day New York Trainee, 6-Month Training Program | New York, New York, USA; Onsite; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034317
 2026-11-19 | Fox Corporation | Good Day New York Trainee, 6-Month Training Program | New York, New York, USA; Onsite; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034316
 2026-11-18 | Morgan Stanley | Onboarding Project Manager, AVP | Sandy, Utah, United States of America; Purchase, New York, United States of America; Alpharetta, Georgia, United States of America; United States of America | $80k–130k | 2+ yrs | https://ms.wd5.myworkdayjobs.com/External/job/Sandy-Utah-United-States-of-America/Onboarding-Project-Manager--AVP_PT-JR046885
@@ -17,5 +19,3 @@ Each line: posted date | company | title | location | salary | years asked | url
 2026-11-16 | GitLab | Enablement Operations Manager | Remote, United States; United States of America | $146k–218k | yrs n/a | https://job-boards.greenhouse.io/gitlab/jobs/8943456002
 2026-11-14 | Harvey | Program Manager, Customer Education | San Francisco; Remote; USA | $121k–166k | yrs n/a | https://jobs.ashbyhq.com/harvey/06f19e6b-f817-41ea-9c54-94d865f88428
 2026-11-14 | Harvey | Program Manager, Customer Education | New York; Remote; USA | $121k–166k | yrs n/a | https://jobs.ashbyhq.com/harvey/8933bce6-f85b-4a74-9530-d5c8916af055
-2026-11-13 | CLEAR | Revenue Enablement Manager (CLEAR1 - B2B) | New York, New York, United States; NYHQ | $120k–150k | yrs n/a | https://job-boards.greenhouse.io/clear/jobs/8385720
-2026-11-13 | Abridge | Member of Product Staff, Foundation Models & Post-Training | SF Office; Remote; USA | $250k–290k | 7+ yrs | https://jobs.ashbyhq.com/Abridge/5b66aac3-cb7a-4bbc-a28c-9fb38cf16656

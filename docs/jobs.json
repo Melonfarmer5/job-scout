@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-20T19:11:04+00:00",
+ "generated": "2026-11-21T04:04:32+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35864,
+ "postings_scanned": 35879,
  "matches": [
   {
    "key": "greenhouse:Stripe:8287910",
@@ -34,6 +34,38 @@
    "years": 6,
    "where": "nyc",
    "first_seen": "2026-11-20",
+   "fresh": true
+  },
+  {
+   "key": "workday:Guardian Life:Service-Enablement-AI-Agent-Owner--Hybrid-_R000110628-1",
+   "company": "Guardian Life",
+   "ats": "workday",
+   "title": "Service Enablement AI Agent Owner (Hybrid)",
+   "url": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/Bethlehem/Service-Enablement-AI-Agent-Owner--Hybrid-_R000110628-1",
+   "location": "Bethlehem; New York; Boston; Pittsfield; Hybrid - In office 3 days per week; United States of America",
+   "posted": "2026-11-20",
+   "salary_min": 101130,
+   "salary_max": 166140,
+   "salary": "$101k–166k",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "2026-11-21",
+   "fresh": true
+  },
+  {
+   "key": "greenhouse:Databricks:8948986002",
+   "company": "Databricks",
+   "ats": "greenhouse",
+   "title": "Industry Executive, Intel Community (AI Transformation)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948986002",
+   "location": "Remote - Washington D.C.; Remote - Virginia",
+   "posted": "2026-11-20",
+   "salary_min": 353400,
+   "salary_max": 486000,
+   "salary": "$353k–486k",
+   "years": null,
+   "where": "remote?",
+   "first_seen": "2026-11-21",
    "fresh": true
   },
   {
@@ -258,7 +290,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "2026-11-14",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:Abridge:5b66aac3-cb7a-4bbc-a28c-9fb38cf16656",
@@ -274,7 +306,7 @@
    "years": 7,
    "where": "remote-us",
    "first_seen": "2026-11-14",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:Wiley:Senior-Manager--AI-Training---Enablement_R2601581",
@@ -389,22 +421,6 @@
    "fresh": false
   },
   {
-   "key": "workday:PwC:AI-Productivity---Adoption-Lead_773184WD",
-   "company": "PwC",
-   "ats": "workday",
-   "title": "AI Productivity & Adoption Lead",
-   "url": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/IL-Chicago/AI-Productivity---Adoption-Lead_773184WD",
-   "location": "IL-Chicago; NC-Raleigh; NC-Charlotte; OH-Cincinnati; OH-Cleveland; SC-Columbia; OH-Columbus; TX-Dallas; MD-Baltimore; VA-Richmond; NY-Rochester; IL-Rosemont; CA-Sacramento; MA-Boston; MO-St. Louis; UT-Salt Lake City; TX-San Antonio; CA-San Diego; CA-San Francisco; CA-Silicon Valley; WA-Seattle; SC-Spartanburg; NY-Albany; CT-Stamford; FL-Tampa; GA-Atlanta; OH-Toledo; TX-Austin; OK-Tulsa; DC-Washington; CO-Denver; IA-Des Moines; MI-Detroit; FL-Boca Raton; NY-Buffalo; NJ-Florham Park; TX-Fort Worth; NC-Greensboro; CT-Hartford; TX-Houston; MI-Grand Rapids; IN-Indianapolis; CA-Irvine; FL-Jacksonville; MO-Kansas City; NV-Las Vegas; AR-Little Rock; CA-Los Angeles; KY-Louisville; AL-Birmingham; AR-Fayetteville; NY-Melville; FL-Miami; WI-Milwaukee; MN-Minneapolis; VT-Montpelier; TN-Nashville; LA-New Orleans; NY-New York; OK-Oklahoma City; FL-Orlando; PA-Philadelphia; AZ-Phoenix; PA-Pittsburgh; OR-Portland; United States of America",
-   "posted": "2026-11-10",
-   "salary_min": 99000,
-   "salary_max": 232000,
-   "salary": "$99k–232k",
-   "years": 5,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "ashby:Notion:e4b7c4d5-9c71-4f82-bf32-0af60e1f2a9f",
    "company": "Notion",
    "ats": "ashby",
@@ -469,22 +485,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Braze:8337945",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
-   "location": "New York City",
-   "posted": "2026-11-10",
-   "salary_min": 101000,
-   "salary_max": 160000,
-   "salary": "$101k–160k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Braze:8373990",
    "company": "Braze",
    "ats": "greenhouse",
@@ -507,6 +507,22 @@
    "title": "Product Enablement Manager",
    "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
    "location": "San Francisco; New York City",
+   "posted": "2026-11-10",
+   "salary_min": 101000,
+   "salary_max": 160000,
+   "salary": "$101k–160k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Braze:8337945",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
+   "location": "New York City",
    "posted": "2026-11-10",
    "salary_min": 101000,
    "salary_max": 160000,
@@ -933,22 +949,6 @@
    "fresh": false
   },
   {
-   "key": "ashby:Harvey:11db9001-3c62-4058-8822-ab384213a806",
-   "company": "Harvey",
-   "ats": "ashby",
-   "title": "Manager, Learning & Certification Architecture",
-   "url": "https://jobs.ashbyhq.com/harvey/11db9001-3c62-4058-8822-ab384213a806",
-   "location": "Chicago; Remote; United States",
-   "posted": "2026-10-29",
-   "salary_min": 140000,
-   "salary_max": 180000,
-   "salary": "$140k–180k",
-   "years": 5,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "lever:Brilliant:0c5c22a0-4487-4435-af54-fe39ef33fbec",
    "company": "Brilliant",
    "ats": "lever",
@@ -1056,38 +1056,6 @@
    "salary_max": 136000,
    "salary": "$109k–136k",
    "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "ashby:Harvey:e5be83a1-5546-4ee9-a79b-be91df8a4548",
-   "company": "Harvey",
-   "ats": "ashby",
-   "title": "Manager, Learning & Certification Architecture",
-   "url": "https://jobs.ashbyhq.com/harvey/e5be83a1-5546-4ee9-a79b-be91df8a4548",
-   "location": "San Francisco; Remote; USA",
-   "posted": "2026-10-23",
-   "salary_min": 140000,
-   "salary_max": 180000,
-   "salary": "$140k–180k",
-   "years": 5,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "ashby:Harvey:a840849a-c8bd-49f1-b96c-230b03d953d5",
-   "company": "Harvey",
-   "ats": "ashby",
-   "title": "Manager, Learning & Certification Architecture",
-   "url": "https://jobs.ashbyhq.com/harvey/a840849a-c8bd-49f1-b96c-230b03d953d5",
-   "location": "New York; USA",
-   "posted": "2026-10-23",
-   "salary_min": 140000,
-   "salary_max": 180000,
-   "salary": "$140k–180k",
-   "years": 5,
    "where": "nyc",
    "first_seen": "",
    "fresh": false
@@ -1509,22 +1477,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Duolingo:8858333002",
-   "company": "Duolingo",
-   "ats": "greenhouse",
-   "title": "Proctor Quality and Learning Manager, Scaling Operations",
-   "url": "https://careers.duolingo.com/jobs/8858333002?gh_jid=8858333002",
-   "location": "London, England; New York, NY; Pittsburgh, PA",
-   "posted": "2026-09-30",
-   "salary_min": 90630,
-   "salary_max": 122617,
-   "salary": "$91k–123k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Duolingo:8858331002",
    "company": "Duolingo",
    "ats": "greenhouse",
@@ -1535,6 +1487,22 @@
    "salary_min": 142800,
    "salary_max": 193200,
    "salary": "$143k–193k",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Duolingo:8858333002",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Proctor Quality and Learning Manager, Scaling Operations",
+   "url": "https://careers.duolingo.com/jobs/8858333002?gh_jid=8858333002",
+   "location": "London, England; New York, NY; Pittsburgh, PA",
+   "posted": "2026-09-30",
+   "salary_min": 90630,
+   "salary_max": 122617,
+   "salary": "$91k–123k",
    "years": null,
    "where": "nyc",
    "first_seen": "",
@@ -1813,22 +1781,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:7860703003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
-   "location": "Remote US; Remote Canada",
-   "posted": "2026-08-24",
-   "salary_min": 115000,
-   "salary_max": 180000,
-   "salary": "$115k–180k",
-   "years": 5,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:7860705003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1839,6 +1791,22 @@
    "salary_min": 101000,
    "salary_max": 151000,
    "salary": "$101k–151k",
+   "years": 5,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:7860703003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
+   "location": "Remote US; Remote Canada",
+   "posted": "2026-08-24",
+   "salary_min": 115000,
+   "salary_max": 180000,
+   "salary": "$115k–180k",
    "years": 5,
    "where": "remote-us",
    "first_seen": "",
@@ -1909,12 +1877,12 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Glean:4718548005",
+   "key": "greenhouse:Glean:4718549005",
    "company": "Glean",
    "ats": "greenhouse",
    "title": "Product Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718548005",
-   "location": "Nashville, TN; Mountain View, CA; New York, NY; San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718549005",
+   "location": "New York, NY; Mountain View, CA; Nashville, TN; San Francisco, CA",
    "posted": "2026-07-24",
    "salary_min": 140000,
    "salary_max": 187000,
@@ -1925,12 +1893,12 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Glean:4718549005",
+   "key": "greenhouse:Glean:4718548005",
    "company": "Glean",
    "ats": "greenhouse",
    "title": "Product Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718549005",
-   "location": "New York, NY; Mountain View, CA; Nashville, TN; San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718548005",
+   "location": "Nashville, TN; Mountain View, CA; New York, NY; San Francisco, CA",
    "posted": "2026-07-24",
    "salary_min": 140000,
    "salary_max": 187000,
@@ -2303,21 +2271,6 @@
    "years": 12,
    "where": "remote-us",
    "reason": "Too senior (asks for 12+ years)"
-  },
-  {
-   "key": "workday:Citi:Director---AI-Implementation-Lead---Citi-COO-Corporate-Enablement-Capabilities-Team_26996930",
-   "company": "Citi",
-   "ats": "workday",
-   "title": "Director - AI Implementation Lead - Citi COO Corporate Enablement Capabilities Team",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Director---AI-Implementation-Lead---Citi-COO-Corporate-Enablement-Capabilities-Team_26996930",
-   "location": "New York New York United States; Tampa Florida United States; Hybrid; United States of America",
-   "posted": "2026-11-19",
-   "salary_min": 170000,
-   "salary_max": 300000,
-   "salary": "$170k–300k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (title says Director)"
   },
   {
    "key": "workday:Morgan Stanley:VP--Department-Manager--Client-Onboarding_PT-JR046231-2",
@@ -2768,21 +2721,6 @@
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (asks for 8+ years)"
-  },
-  {
-   "key": "workday:Cushman & Wakefield:Technical-Instructional-Design-Manager_R342042",
-   "company": "Cushman & Wakefield",
-   "ats": "workday",
-   "title": "Technical Instructional Design Manager",
-   "url": "https://cw.wd1.myworkdayjobs.com/External/job/Cincinnati-Ohio-USA/Technical-Instructional-Design-Manager_R342042",
-   "location": "Cincinnati, Ohio, USA; Fully Remote; United States of America",
-   "posted": "2026-11-02",
-   "salary_min": 76500,
-   "salary_max": 90000,
-   "salary": "$76k–90k",
-   "years": 3,
-   "where": "remote-us",
-   "reason": "Pay too low (tops out at $90k)"
   },
   {
    "key": "workday:Morgan Stanley:AI-Strategy---Enablement-VP_PT-JR045843",
