@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-21T18:03:38+00:00",
+ "generated": "2026-11-22T03:17:29+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35882,
+ "postings_scanned": 35880,
  "matches": [
   {
    "key": "greenhouse:Stripe:8287910",
@@ -258,7 +258,7 @@
    "years": null,
    "where": "remote-us",
    "first_seen": "2026-11-14",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:Harvey:8933bce6-f85b-4a74-9530-d5c8916af055",
@@ -274,7 +274,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "2026-11-14",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:CLEAR:8385720",
