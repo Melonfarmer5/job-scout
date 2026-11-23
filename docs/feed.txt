@@ -1,7 +1,9 @@
-JOB SCOUT FEED generated 2026-11-23T03:49:04+00:00
-Checked 279 of 292 companies. 137 open matches, 15 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-23T22:45:03+00:00
+Checked 279 of 292 companies. 136 open matches, 17 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
+2026-11-23 | Mizuho Americas | AI Adoption Lead | NYC (1285); United States of America | $112k–220k | 7+ yrs | https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/AI-Adoption-Lead_R7570-3
+2026-11-23 | Justworks | Customer Onboarding Manager | New York, New York; New York, NY | Not listed | 2+ yrs | https://boards.greenhouse.io/justworks/jobs/8404062?gh_jid=8404062
 2026-11-20 | Stripe | AI Transformation Lead, Marketing | San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US; US | Not listed | 5+ yrs | https://stripe.com/jobs/search?gh_jid=8287910
 2026-11-20 | Robinhood | Education Lead | Menlo Park, CA; New York, NY; London, UK; Menlo Park, CA; New York, NY | $113k–170k | 6+ yrs | https://boards.greenhouse.io/robinhood/jobs/8404475?t=gh_src=&gh_jid=8404475
 2026-11-20 | Guardian Life | Service Enablement AI Agent Owner (Hybrid) | Bethlehem; New York; Boston; Pittsfield; Hybrid - In office 3 days per week; United States of America | $101k–166k | yrs n/a | https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/Bethlehem/Service-Enablement-AI-Agent-Owner--Hybrid-_R000110628-1
