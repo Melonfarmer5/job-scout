@@ -709,7 +709,7 @@
   },
   "ashby:OpenAI:97493ce9-9491-4384-9be9-8069625cd766": {
    "first_seen": "",
-   "last_seen": "2026-11-17",
+   "last_seen": "2026-11-24",
    "title": "Learning & Instruction Lead, Academy",
    "company": "OpenAI",
    "url": "https://jobs.ashbyhq.com/openai/97493ce9-9491-4384-9be9-8069625cd766"
@@ -1203,6 +1203,41 @@
    "title": "AI Adoption Lead",
    "company": "Mizuho Americas",
    "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/AI-Adoption-Lead_R7570-3"
+  },
+  "ashby:Abridge:2e2478eb-7648-4af8-b2a6-1b2b81d4946a": {
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "title": "Revenue Enablement Lead",
+   "company": "Abridge",
+   "url": "https://jobs.ashbyhq.com/Abridge/2e2478eb-7648-4af8-b2a6-1b2b81d4946a"
+  },
+  "greenhouse:Databricks:8438263002": {
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "title": "Industry Executive- DoW (AI Transformation)",
+   "company": "Databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438263002"
+  },
+  "smartrecruiters:Equinox:744000163531269": {
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "title": "Manager in Training - Personal Training, New York City",
+   "company": "Equinox",
+   "url": "https://jobs.smartrecruiters.com/Equinox/744000163531269-manager-in-training-personal-training-new-york-city"
+  },
+  "greenhouse:Reddit:8414836": {
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "title": "Lower Funnel Product Adoption Strategist",
+   "company": "Reddit",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8414836"
+  },
+  "workday:Salesforce:Event-Marketing-Enablement-Manager_JR368838": {
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "title": "Event Marketing Enablement Manager",
+   "company": "Salesforce",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Event-Marketing-Enablement-Manager_JR368838"
   }
  }
 }
