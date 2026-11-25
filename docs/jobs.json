@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T21:20:48+00:00",
+ "generated": "2026-11-25T05:31:07+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35735,
+ "postings_scanned": 35742,
  "matches": [
   {
    "key": "workday:Salesforce:Event-Marketing-Enablement-Manager_JR368838",
@@ -66,6 +66,22 @@
    "years": null,
    "where": "nyc",
    "first_seen": "2026-11-24",
+   "fresh": true
+  },
+  {
+   "key": "ashby:Clay:66c5d4ae-32cc-43a1-bc72-8e203dd7a2d2",
+   "company": "Clay",
+   "ats": "ashby",
+   "title": "Partnerships Enablement",
+   "url": "https://jobs.ashbyhq.com/claylabs/66c5d4ae-32cc-43a1-bc72-8e203dd7a2d2",
+   "location": "New York; San Francisco; Remote; United States",
+   "posted": "2026-11-24",
+   "salary_min": null,
+   "salary_max": null,
+   "salary": "Not listed",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "2026-11-25",
    "fresh": true
   },
   {
@@ -290,7 +306,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "2026-11-17",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:OpenAI:d5ee28a8-079f-4113-9430-79fb747877b6",
@@ -306,13 +322,13 @@
    "years": null,
    "where": "nyc",
    "first_seen": "2026-11-17",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:OpenAI:d6fac6f4-0b96-4c09-9349-9b7fc99a6547",
    "company": "OpenAI",
    "ats": "ashby",
-   "title": "Builder Education",
+   "title": "Builder Education Lead",
    "url": "https://jobs.ashbyhq.com/openai/d6fac6f4-0b96-4c09-9349-9b7fc99a6547",
    "location": "San Francisco; Remote; United States",
    "posted": "2026-11-17",
@@ -322,7 +338,7 @@
    "years": null,
    "where": "remote-us",
    "first_seen": "2026-11-17",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:OpenAI:04050b95-dde6-48c4-a5a2-1a9691560e82",
@@ -338,7 +354,7 @@
    "years": null,
    "where": "remote-us",
    "first_seen": "2026-11-17",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:GitLab:8943456002",
@@ -1077,22 +1093,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:8009631003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
-   "location": "Remote Canada; Remote US",
-   "posted": "2026-10-27",
-   "salary_min": 128000,
-   "salary_max": 188000,
-   "salary": "$128k–188k",
-   "years": 7,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:8009629003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1103,6 +1103,22 @@
    "salary_min": 146000,
    "salary_max": 225000,
    "salary": "$146k–225k",
+   "years": 7,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:8009631003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
+   "location": "Remote Canada; Remote US",
+   "posted": "2026-10-27",
+   "salary_min": 128000,
+   "salary_max": 188000,
+   "salary": "$128k–188k",
    "years": 7,
    "where": "remote-us",
    "first_seen": "",
@@ -1781,22 +1797,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:7860703003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
-   "location": "Remote US; Remote Canada",
-   "posted": "2026-08-24",
-   "salary_min": 115000,
-   "salary_max": 180000,
-   "salary": "$115k–180k",
-   "years": 5,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:7860705003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1807,6 +1807,22 @@
    "salary_min": 101000,
    "salary_max": 151000,
    "salary": "$101k–151k",
+   "years": 5,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:7860703003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
+   "location": "Remote US; Remote Canada",
+   "posted": "2026-08-24",
+   "salary_min": 115000,
+   "salary_max": 180000,
+   "salary": "$115k–180k",
    "years": 5,
    "where": "remote-us",
    "first_seen": "",
@@ -1856,38 +1872,6 @@
    "salary_max": 235000,
    "salary": "$175k–235k",
    "years": 5,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:Glean:4718549005",
-   "company": "Glean",
-   "ats": "greenhouse",
-   "title": "Product Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718549005",
-   "location": "New York, NY; Mountain View, CA; Nashville, TN; San Francisco, CA",
-   "posted": "2026-07-24",
-   "salary_min": 140000,
-   "salary_max": 187000,
-   "salary": "$140k–187k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:Glean:4718548005",
-   "company": "Glean",
-   "ats": "greenhouse",
-   "title": "Product Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4718548005",
-   "location": "Nashville, TN; Mountain View, CA; New York, NY; San Francisco, CA",
-   "posted": "2026-07-24",
-   "salary_min": 140000,
-   "salary_max": 187000,
-   "salary": "$140k–187k",
-   "years": null,
    "where": "nyc",
    "first_seen": "",
    "fresh": false
@@ -1969,22 +1953,6 @@
    "salary": "$137k–236k",
    "years": 6,
    "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:Glean:4696203005",
-   "company": "Glean",
-   "ats": "greenhouse",
-   "title": "Product Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696203005",
-   "location": "Mountain View, CA; San Francisco, CA; Mountain View, CA; Nashville, TN; New York, NY; San Francisco, CA",
-   "posted": "2026-05-18",
-   "salary_min": 140000,
-   "salary_max": 187000,
-   "salary": "$140k–187k",
-   "years": null,
-   "where": "nyc",
    "first_seen": "",
    "fresh": false
   },
@@ -2166,6 +2134,51 @@
   }
  ],
  "skipped": [
+  {
+   "key": "ashby:Cohere:7c05d8d1-f288-404b-8142-1be372ae6354",
+   "company": "Cohere",
+   "ats": "ashby",
+   "title": "Senior Manager, Talent Development",
+   "url": "https://jobs.ashbyhq.com/cohere/7c05d8d1-f288-404b-8142-1be372ae6354",
+   "location": "Toronto; San Francisco; Seattle; New York; Remote; Canada",
+   "posted": "2026-11-25",
+   "salary_min": 180000,
+   "salary_max": 235000,
+   "salary": "$180k–235k",
+   "years": 8,
+   "where": "nyc",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "workday:Workday:Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
+   "company": "Workday",
+   "ats": "workday",
+   "title": "Senior Technical Consultant, Integrations – Higher Education & Nonprofit",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-Remote/Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
+   "location": "USA Remote; Flex; United States of America",
+   "posted": "2026-11-24",
+   "salary_min": 111000,
+   "salary_max": 197300,
+   "salary": "$111k–197k",
+   "years": 8,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "greenhouse:Verkada:5299023007",
+   "company": "Verkada",
+   "ats": "greenhouse",
+   "title": "Regional Sales Director (Southern California - Education)",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5299023007",
+   "location": "Los Angeles, CA United States; California Remote",
+   "posted": "2026-11-24",
+   "salary_min": 300000,
+   "salary_max": 350000,
+   "salary": "$300k–350k",
+   "years": null,
+   "where": "remote-us",
+   "reason": "Too senior (title says Director)"
+  },
   {
    "key": "workday:Accenture:AI-Leadership-and-Executive-Training-Product-Lead_R00372535",
    "company": "Accenture",
@@ -2422,21 +2435,6 @@
    "reason": "Too senior (asks for 8+ years)"
   },
   {
-   "key": "workday:Workday:Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
-   "company": "Workday",
-   "ats": "workday",
-   "title": "Senior Technical Consultant, Integrations – Higher Education & Nonprofit",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-Remote/Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
-   "location": "USA Remote; Flex; United States of America",
-   "posted": "2026-11-17",
-   "salary_min": 111000,
-   "salary_max": 197300,
-   "salary": "$111k–197k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "smartrecruiters:Equinox:744000162154388",
    "company": "Equinox",
    "ats": "smartrecruiters",
@@ -2510,21 +2508,6 @@
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (title says Principal)"
-  },
-  {
-   "key": "workday:Pfizer:Manager--CX-Adoption_4967559-1",
-   "company": "Pfizer",
-   "ats": "workday",
-   "title": "Manager, CX Adoption",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Manager--CX-Adoption_4967559-1",
-   "location": "United States - New York - New York City; United States - Pennsylvania - Collegeville; Mexico - Mexico City; United Kingdom - Walton Oaks; United States - Florida - Tampa; Costa Rica - Escazu; Greece-Thessaloniki Chortiatis; United States of America",
-   "posted": "2026-11-11",
-   "salary_min": 89400,
-   "salary_max": 165400,
-   "salary": "$89k–165k",
-   "years": 10,
-   "where": "nyc",
-   "reason": "Too senior (asks for 10+ years)"
   },
   {
    "key": "workday:Citi:AI-Adoption---Commercialization-Senior-Lead---Senior-Vice-President_26995884",
@@ -2617,21 +2600,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Justworks:8359307",
-   "company": "Justworks",
-   "ats": "greenhouse",
-   "title": "Manager, International Onboarding (EOR)",
-   "url": "https://boards.greenhouse.io/justworks/jobs/8359307?gh_jid=8359307",
-   "location": "New York, New York; New York, NY",
-   "posted": "2026-11-06",
-   "salary_min": 109000,
-   "salary_max": 136000,
-   "salary": "$109k–136k",
-   "years": 8,
-   "where": "nyc",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "greenhouse:Justworks:8359309",
    "company": "Justworks",
    "ats": "greenhouse",
@@ -2642,6 +2610,21 @@
    "salary_min": null,
    "salary_max": null,
    "salary": "Not listed",
+   "years": 8,
+   "where": "nyc",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "greenhouse:Justworks:8359307",
+   "company": "Justworks",
+   "ats": "greenhouse",
+   "title": "Manager, International Onboarding (EOR)",
+   "url": "https://boards.greenhouse.io/justworks/jobs/8359307?gh_jid=8359307",
+   "location": "New York, New York; New York, NY",
+   "posted": "2026-11-06",
+   "salary_min": 109000,
+   "salary_max": 136000,
+   "salary": "$109k–136k",
    "years": 8,
    "where": "nyc",
    "reason": "Too senior (asks for 8+ years)"
