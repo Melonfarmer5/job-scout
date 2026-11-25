@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25T05:31:07+00:00",
- "companies_checked": 279,
+ "generated": "2026-11-25T20:33:11+00:00",
+ "companies_checked": 278,
  "companies_total": 292,
- "postings_scanned": 35742,
+ "postings_scanned": 33159,
  "matches": [
   {
    "key": "workday:Salesforce:Event-Marketing-Enablement-Manager_JR368838",
@@ -597,22 +597,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Braze:8373990",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
-   "location": "Chicago; New York City",
-   "posted": "2026-11-10",
-   "salary_min": 96000,
-   "salary_max": 150000,
-   "salary": "$96k–150k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Braze:8373965",
    "company": "Braze",
    "ats": "greenhouse",
@@ -623,6 +607,22 @@
    "salary_min": 101000,
    "salary_max": 160000,
    "salary": "$101k–160k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Braze:8373990",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
+   "location": "Chicago; New York City",
+   "posted": "2026-11-10",
+   "salary_min": 96000,
+   "salary_max": 150000,
+   "salary": "$96k–150k",
    "years": 7,
    "where": "nyc",
    "first_seen": "",
@@ -1509,22 +1509,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Duolingo:8858331002",
-   "company": "Duolingo",
-   "ats": "greenhouse",
-   "title": "Proctor Quality and Learning Manager, Scaling Operations",
-   "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002",
-   "location": "New York, NY; Pittsburgh, PA; New York, NY; Pittsburgh, PA",
-   "posted": "2026-09-30",
-   "salary_min": 142800,
-   "salary_max": 193200,
-   "salary": "$143k–193k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Duolingo:8858333002",
    "company": "Duolingo",
    "ats": "greenhouse",
@@ -1535,6 +1519,22 @@
    "salary_min": 90630,
    "salary_max": 122617,
    "salary": "$91k–123k",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Duolingo:8858331002",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Proctor Quality and Learning Manager, Scaling Operations",
+   "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002",
+   "location": "New York, NY; Pittsburgh, PA; New York, NY; Pittsburgh, PA",
+   "posted": "2026-09-30",
+   "salary_min": 142800,
+   "salary_max": 193200,
+   "salary": "$143k–193k",
    "years": null,
    "where": "nyc",
    "first_seen": "",
@@ -1681,22 +1681,6 @@
    "salary": "$135k–180k",
    "years": null,
    "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:Databricks:8780470002",
-   "company": "Databricks",
-   "ats": "greenhouse",
-   "title": "Lead Learning Technical Enablement Specialist",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8780470002",
-   "location": "United States; Remote - California",
-   "posted": "2026-09-11",
-   "salary_min": 137100,
-   "salary_max": 235750,
-   "salary": "$137k–236k",
-   "years": 5,
-   "where": "remote-us",
    "first_seen": "",
    "fresh": false
   },
@@ -2135,6 +2119,51 @@
  ],
  "skipped": [
   {
+   "key": "workday:Pfizer:Director--Data-Domain-Enablement---Delivery-Lead---AIA_4968301-2",
+   "company": "Pfizer",
+   "ats": "workday",
+   "title": "Director, Data Domain Enablement & Delivery Lead - AIA",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Data-Domain-Enablement---Delivery-Lead---AIA_4968301-2",
+   "location": "United States - New York - New York City; Europe - Any Pfizer Site; North America - Any Pfizer Site; Latin America - Any Pfizer Site; United States of America",
+   "posted": "2026-11-25",
+   "salary_min": 162900,
+   "salary_max": 271500,
+   "salary": "$163k–272k",
+   "years": 8,
+   "where": "nyc",
+   "reason": "Too senior (title says Director)"
+  },
+  {
+   "key": "workday:Nvidia:Cloud-Sales-Enablement-Manager_JR2020098",
+   "company": "Nvidia",
+   "ats": "workday",
+   "title": "Cloud Sales Enablement Manager",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Sales-Enablement-Manager_JR2020098",
+   "location": "US, CA, Santa Clara; US, CA, Remote; United States of America",
+   "posted": "2026-11-25",
+   "salary_min": 187500,
+   "salary_max": 429000,
+   "salary": "$188k–429k",
+   "years": 8,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "workday:Mizuho Americas:AI-Adoption_R7559-3",
+   "company": "Mizuho Americas",
+   "ats": "workday",
+   "title": "AI Adoption Lead",
+   "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/AI-Adoption_R7559-3",
+   "location": "NYC (1285); United States of America",
+   "posted": "2026-11-25",
+   "salary_min": 150000,
+   "salary_max": 250000,
+   "salary": "$150k–250k",
+   "years": 12,
+   "where": "nyc",
+   "reason": "Too senior (asks for 12+ years)"
+  },
+  {
    "key": "ashby:Cohere:7c05d8d1-f288-404b-8142-1be372ae6354",
    "company": "Cohere",
    "ats": "ashby",
@@ -2148,6 +2177,21 @@
    "years": 8,
    "where": "nyc",
    "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "workday:Citi:Finance-Regulatory-Engagement---Reg-Engagement-and-Enablement--Assistant-Vice-President_261006463",
+   "company": "Citi",
+   "ats": "workday",
+   "title": "Finance Regulatory Engagement-  Reg Engagement and Enablement- Assistant Vice President",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Finance-Regulatory-Engagement---Reg-Engagement-and-Enablement--Assistant-Vice-President_261006463",
+   "location": "New York New York United States; Hybrid; United States of America",
+   "posted": "2026-11-25",
+   "salary_min": 98960,
+   "salary_max": 148440,
+   "salary": "$99k–148k",
+   "years": 2,
+   "where": "nyc",
+   "reason": "Too senior (title says Vice President)"
   },
   {
    "key": "workday:Workday:Senior-Technical-Consultant--Integrations---Higher-Education---Nonprofit_JR-0111391",
@@ -2225,21 +2269,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "workday:Mizuho Americas:AI-Adoption_R7559-3",
-   "company": "Mizuho Americas",
-   "ats": "workday",
-   "title": "AI Adoption",
-   "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/AI-Adoption_R7559-3",
-   "location": "NYC (1285); United States of America",
-   "posted": "2026-11-23",
-   "salary_min": 150000,
-   "salary_max": 250000,
-   "salary": "$150k–250k",
-   "years": 12,
-   "where": "nyc",
-   "reason": "Too senior (asks for 12+ years)"
-  },
-  {
    "key": "workday:Dow Jones:Sr-Director--AI-Operations---Enablement_Job_Req_54044",
    "company": "Dow Jones",
    "ats": "workday",
@@ -2315,21 +2344,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "workday:Nvidia:Technical-Program-Manager--OEM-Enablement_JR2028754",
-   "company": "Nvidia",
-   "ats": "workday",
-   "title": "Senior Technical Program Manager, OEM Enablement",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--OEM-Enablement_JR2028754",
-   "location": "US, CA, Santa Clara; US, SC, Remote; United States of America",
-   "posted": "2026-11-20",
-   "salary_min": 210000,
-   "salary_max": 403000,
-   "salary": "$210k–403k",
-   "years": 12,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 12+ years)"
-  },
-  {
    "key": "workday:TIAA:Director--Field-Enablement_R260900401-2",
    "company": "TIAA",
    "ats": "workday",
@@ -2358,36 +2372,6 @@
    "years": 10,
    "where": "remote-us",
    "reason": "Too senior (asks for 10+ years)"
-  },
-  {
-   "key": "workday:Nvidia:Cloud-Sales-Enablement-Manager_JR2020098",
-   "company": "Nvidia",
-   "ats": "workday",
-   "title": "Cloud Sales Enablement Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Sales-Enablement-Manager_JR2020098",
-   "location": "US, CA, Santa Clara; US, CA, Remote; United States of America",
-   "posted": "2026-11-19",
-   "salary_min": 200000,
-   "salary_max": 356500,
-   "salary": "$200k–356k",
-   "years": 8,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
-   "key": "workday:Nvidia:OEM-Field-Enablement-Manager--HPE-and-HPI_JR2027634",
-   "company": "Nvidia",
-   "ats": "workday",
-   "title": "OEM Field Enablement Manager, HPE and HPI",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Field-Enablement-Manager--HPE-and-HPI_JR2027634",
-   "location": "US, CA, Santa Clara; US, TX, Remote; United States of America",
-   "posted": "2026-11-19",
-   "salary_min": 176000,
-   "salary_max": 276000,
-   "salary": "$176k–276k",
-   "years": 12,
-   "where": "remote-us",
-   "reason": "Too senior (asks for 12+ years)"
   },
   {
    "key": "workday:Morgan Stanley:VP--Department-Manager--Client-Onboarding_PT-JR046231-2",
@@ -2600,21 +2584,6 @@
    "reason": "Too senior (title says Director)"
   },
   {
-   "key": "greenhouse:Justworks:8359309",
-   "company": "Justworks",
-   "ats": "greenhouse",
-   "title": "Manager, International Onboarding (EOR)",
-   "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
-   "location": "Mexico City, Mexico; New York, NY",
-   "posted": "2026-11-06",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 8,
-   "where": "nyc",
-   "reason": "Too senior (asks for 8+ years)"
-  },
-  {
    "key": "greenhouse:Justworks:8359307",
    "company": "Justworks",
    "ats": "greenhouse",
@@ -2625,6 +2594,21 @@
    "salary_min": 109000,
    "salary_max": 136000,
    "salary": "$109k–136k",
+   "years": 8,
+   "where": "nyc",
+   "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "greenhouse:Justworks:8359309",
+   "company": "Justworks",
+   "ats": "greenhouse",
+   "title": "Manager, International Onboarding (EOR)",
+   "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
+   "location": "Mexico City, Mexico; New York, NY",
+   "posted": "2026-11-06",
+   "salary_min": null,
+   "salary_max": null,
+   "salary": "Not listed",
    "years": 8,
    "where": "nyc",
    "reason": "Too senior (asks for 8+ years)"
@@ -2763,21 +2747,6 @@
    "years": 7,
    "where": "nyc",
    "reason": "Too senior (title says VP)"
-  },
-  {
-   "key": "workday:Morgan Stanley:Client-Onboarding-Operations-Associate_PT-JR044440-1",
-   "company": "Morgan Stanley",
-   "ats": "workday",
-   "title": "Client Onboarding Operations Associate",
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Client-Onboarding-Operations-Associate_PT-JR044440-1",
-   "location": "New York, New York, United States of America; United States of America",
-   "posted": "2026-10-28",
-   "salary_min": 65000,
-   "salary_max": 103000,
-   "salary": "$65k–103k",
-   "years": 3,
-   "where": "nyc",
-   "reason": "Pay too low (tops out at $103k)"
   },
   {
    "key": "ashby:airwallex:3b77ef83-5a92-45e2-b70f-b1c7be7685c5",
@@ -3441,6 +3410,11 @@
   }
  ],
  "problems": [
+  {
+   "company": "Anduril",
+   "ats": "greenhouse",
+   "error": "The read operation timed out"
+  },
   {
    "company": "Bilt Rewards",
    "ats": "greenhouse",
