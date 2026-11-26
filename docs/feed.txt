@@ -1,5 +1,5 @@
-JOB SCOUT FEED generated 2026-11-25T20:33:11+00:00
-Checked 278 of 292 companies. 132 open matches, 18 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-26T05:11:31+00:00
+Checked 279 of 292 companies. 127 open matches, 14 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-24 | Salesforce | Event Marketing Enablement Manager | California - San Francisco; New York - New York; Office - Flexible; United States of America | $117k–194k | 7+ yrs | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Event-Marketing-Enablement-Manager_JR368838
@@ -16,7 +16,3 @@ Each line: posted date | company | title | location | salary | years asked | url
 2026-11-20 | Databricks | Industry Executive, Intel Community (AI Transformation) | Remote - Washington D.C.; Remote - Virginia | $353k–486k | yrs n/a | https://databricks.com/company/careers/open-positions/job?gh_jid=8948986002
 2026-11-19 | Fox Corporation | Good Day New York Trainee, 6-Month Training Program | New York, New York, USA; Onsite; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034317
 2026-11-19 | Fox Corporation | Good Day New York Trainee, 6-Month Training Program | New York, New York, USA; Onsite; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034316
-2026-11-18 | Morgan Stanley | Onboarding Project Manager, AVP | Sandy, Utah, United States of America; Purchase, New York, United States of America; Alpharetta, Georgia, United States of America; United States of America | $80k–130k | 2+ yrs | https://ms.wd5.myworkdayjobs.com/External/job/Sandy-Utah-United-States-of-America/Onboarding-Project-Manager--AVP_PT-JR046885
-2026-11-18 | Hinge | Sr. Program Manager, Learning | New York, New York; US | $120k–144k | 5+ yrs | https://jobs.lever.co/matchgroup/7a1f5de4-a506-4c6d-ac13-baed6ab0fae0
-2026-11-18 | Fox Corporation | Programming & Executive Assistant, FOX Nation & Talent Development | New York, New York, USA; Onsite; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Programming---Executive-Assistant--FOX-Nation---Talent-Development_R50034106
-2026-11-18 | 1password | Senior Manager, AI Transformation (HR & Operations) | Remote (United States | Canada); Remote | $159k–231k | yrs n/a | https://jobs.ashbyhq.com/1password/a835fee8-dc26-44de-87bd-39e081291857

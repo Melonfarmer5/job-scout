@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25T20:33:11+00:00",
- "companies_checked": 278,
+ "generated": "2026-11-26T05:11:31+00:00",
+ "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 33159,
+ "postings_scanned": 35801,
  "matches": [
   {
    "key": "workday:Salesforce:Event-Marketing-Enablement-Manager_JR368838",
@@ -242,7 +242,7 @@
    "years": 2,
    "where": "nyc",
    "first_seen": "2026-11-18",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "lever:Hinge:7a1f5de4-a506-4c6d-ac13-baed6ab0fae0",
@@ -258,7 +258,7 @@
    "years": 5,
    "where": "nyc",
    "first_seen": "2026-11-19",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:Fox Corporation:Programming---Executive-Assistant--FOX-Nation---Talent-Development_R50034106",
@@ -274,7 +274,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:1password:a835fee8-dc26-44de-87bd-39e081291857",
@@ -290,7 +290,7 @@
    "years": null,
    "where": "remote-us",
    "first_seen": "2026-11-19",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "ashby:OpenAI:d78c0cd2-d0dd-4d81-8c18-3480df089b62",
@@ -485,54 +485,6 @@
    "fresh": false
   },
   {
-   "key": "ashby:elevenlabs:14c7802d-8e72-46b0-833c-3f0835363e48",
-   "company": "elevenlabs",
-   "ats": "ashby",
-   "title": "GTM Enablement - Sales Execution & North America Lead",
-   "url": "https://jobs.ashbyhq.com/ElevenLabs/14c7802d-8e72-46b0-833c-3f0835363e48",
-   "location": "Remote; New York",
-   "posted": "2026-11-10",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "2026-11-23",
-   "fresh": false
-  },
-  {
-   "key": "ashby:elevenlabs:7a235499-7cee-48f5-9fe4-3f4764b91865",
-   "company": "elevenlabs",
-   "ats": "ashby",
-   "title": "GTM Enablement - Product",
-   "url": "https://jobs.ashbyhq.com/ElevenLabs/7a235499-7cee-48f5-9fe4-3f4764b91865",
-   "location": "Remote",
-   "posted": "2026-11-10",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": null,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "ashby:elevenlabs:820e5023-c637-4b36-91a9-f732f235998e",
-   "company": "elevenlabs",
-   "ats": "ashby",
-   "title": "GTM Enablement - Partner Program",
-   "url": "https://jobs.ashbyhq.com/ElevenLabs/820e5023-c637-4b36-91a9-f732f235998e",
-   "location": "Remote",
-   "posted": "2026-11-10",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": null,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "ashby:Notion:e4b7c4d5-9c71-4f82-bf32-0af60e1f2a9f",
    "company": "Notion",
    "ats": "ashby",
@@ -613,22 +565,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Braze:8373990",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
-   "location": "Chicago; New York City",
-   "posted": "2026-11-10",
-   "salary_min": 96000,
-   "salary_max": 150000,
-   "salary": "$96k–150k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Braze:8337945",
    "company": "Braze",
    "ats": "greenhouse",
@@ -639,6 +575,22 @@
    "salary_min": 101000,
    "salary_max": 160000,
    "salary": "$101k–160k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Braze:8373990",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
+   "location": "Chicago; New York City",
+   "posted": "2026-11-10",
+   "salary_min": 96000,
+   "salary_max": 150000,
+   "salary": "$96k–150k",
    "years": 7,
    "where": "nyc",
    "first_seen": "",
@@ -1093,22 +1045,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:8009629003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009629003",
-   "location": "Remote US",
-   "posted": "2026-10-27",
-   "salary_min": 146000,
-   "salary_max": 225000,
-   "salary": "$146k–225k",
-   "years": 7,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:8009631003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1119,6 +1055,22 @@
    "salary_min": 128000,
    "salary_max": 188000,
    "salary": "$128k–188k",
+   "years": 7,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:8009629003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009629003",
+   "location": "Remote US",
+   "posted": "2026-10-27",
+   "salary_min": 146000,
+   "salary_max": 225000,
+   "salary": "$146k–225k",
    "years": 7,
    "where": "remote-us",
    "first_seen": "",
@@ -1372,38 +1324,6 @@
    "url": "https://job-boards.greenhouse.io/generalassembly/jobs/8268476",
    "location": "U.S. Remote; Remote",
    "posted": "2026-10-09",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 5,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:General Assembly:8265898",
-   "company": "General Assembly",
-   "ats": "greenhouse",
-   "title": "Lead Learning Experience Designer - Europe, APAC, Middle East (30 hours/week)",
-   "url": "https://job-boards.greenhouse.io/generalassembly/jobs/8265898",
-   "location": "Remote",
-   "posted": "2026-10-08",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 5,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:General Assembly:8263537",
-   "company": "General Assembly",
-   "ats": "greenhouse",
-   "title": "Lead Learning Experience Designer - U.S. (30 hours/week)",
-   "url": "https://job-boards.greenhouse.io/generalassembly/jobs/8263537",
-   "location": "U.S. Remote; Remote",
-   "posted": "2026-10-08",
    "salary_min": null,
    "salary_max": null,
    "salary": "Not listed",
@@ -1781,22 +1701,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:7860705003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860705003",
-   "location": "Remote Canada; Remote US",
-   "posted": "2026-08-24",
-   "salary_min": 101000,
-   "salary_max": 151000,
-   "salary": "$101k–151k",
-   "years": 5,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:7860703003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1807,6 +1711,22 @@
    "salary_min": 115000,
    "salary_max": 180000,
    "salary": "$115k–180k",
+   "years": 5,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:7860705003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860705003",
+   "location": "Remote Canada; Remote US",
+   "posted": "2026-08-24",
+   "salary_min": 101000,
+   "salary_max": 151000,
+   "salary": "$101k–151k",
    "years": 5,
    "where": "remote-us",
    "first_seen": "",
@@ -2147,6 +2067,36 @@
    "years": 8,
    "where": "remote-us",
    "reason": "Too senior (asks for 8+ years)"
+  },
+  {
+   "key": "workday:Nvidia:Technical-Program-Manager--OEM-Enablement_JR2028754",
+   "company": "Nvidia",
+   "ats": "workday",
+   "title": "Senior Technical Program Manager, OEM Enablement",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--OEM-Enablement_JR2028754",
+   "location": "US, CA, Santa Clara; US, SC, Remote; United States of America",
+   "posted": "2026-11-25",
+   "salary_min": 210000,
+   "salary_max": 403000,
+   "salary": "$210k–403k",
+   "years": 12,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 12+ years)"
+  },
+  {
+   "key": "workday:Nvidia:OEM-Field-Enablement-Manager--HPE-and-HPI_JR2027634",
+   "company": "Nvidia",
+   "ats": "workday",
+   "title": "OEM Field Enablement Manager, HPE and HPI",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Field-Enablement-Manager--HPE-and-HPI_JR2027634",
+   "location": "US, CA, Santa Clara; US, TX, Remote; United States of America",
+   "posted": "2026-11-25",
+   "salary_min": 172500,
+   "salary_max": 338000,
+   "salary": "$172k–338k",
+   "years": 12,
+   "where": "remote-us",
+   "reason": "Too senior (asks for 12+ years)"
   },
   {
    "key": "workday:Mizuho Americas:AI-Adoption_R7559-3",
@@ -3410,11 +3360,6 @@
   }
  ],
  "problems": [
-  {
-   "company": "Anduril",
-   "ats": "greenhouse",
-   "error": "The read operation timed out"
-  },
   {
    "company": "Bilt Rewards",
    "ats": "greenhouse",
