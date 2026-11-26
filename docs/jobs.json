@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T05:11:31+00:00",
+ "generated": "2026-11-26T20:17:38+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35801,
+ "postings_scanned": 35787,
  "matches": [
   {
    "key": "workday:Salesforce:Event-Marketing-Enablement-Manager_JR368838",
@@ -549,12 +549,12 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Braze:8373965",
+   "key": "greenhouse:Braze:8337945",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
-   "location": "San Francisco; New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
+   "location": "New York City",
    "posted": "2026-11-10",
    "salary_min": 101000,
    "salary_max": 160000,
@@ -565,12 +565,12 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Braze:8337945",
+   "key": "greenhouse:Braze:8373965",
    "company": "Braze",
    "ats": "greenhouse",
    "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8337945",
-   "location": "New York City",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
+   "location": "San Francisco; New York City",
    "posted": "2026-11-10",
    "salary_min": 101000,
    "salary_max": 160000,
@@ -1157,22 +1157,6 @@
    "fresh": false
   },
   {
-   "key": "ashby:Decagon:0e8a35cd-be75-436e-8407-f4e8dd2d2c59",
-   "company": "Decagon",
-   "ats": "ashby",
-   "title": "Sales Enablement Manager",
-   "url": "https://jobs.ashbyhq.com/decagon/0e8a35cd-be75-436e-8407-f4e8dd2d2c59",
-   "location": "San Francisco; New York City; United States",
-   "posted": "2026-10-20",
-   "salary_min": 190000,
-   "salary_max": 235000,
-   "salary": "$190k–235k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Datadog:8282537",
    "company": "Datadog",
    "ats": "greenhouse",
@@ -1429,22 +1413,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Duolingo:8858333002",
-   "company": "Duolingo",
-   "ats": "greenhouse",
-   "title": "Proctor Quality and Learning Manager, Scaling Operations",
-   "url": "https://careers.duolingo.com/jobs/8858333002?gh_jid=8858333002",
-   "location": "London, England; New York, NY; Pittsburgh, PA",
-   "posted": "2026-09-30",
-   "salary_min": 90630,
-   "salary_max": 122617,
-   "salary": "$91k–123k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Duolingo:8858331002",
    "company": "Duolingo",
    "ats": "greenhouse",
@@ -1455,6 +1423,22 @@
    "salary_min": 142800,
    "salary_max": 193200,
    "salary": "$143k–193k",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Duolingo:8858333002",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Proctor Quality and Learning Manager, Scaling Operations",
+   "url": "https://careers.duolingo.com/jobs/8858333002?gh_jid=8858333002",
+   "location": "London, England; New York, NY; Pittsburgh, PA",
+   "posted": "2026-09-30",
+   "salary_min": 90630,
+   "salary_max": 122617,
+   "salary": "$91k–123k",
    "years": null,
    "where": "nyc",
    "first_seen": "",

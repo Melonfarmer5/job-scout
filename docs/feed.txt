@@ -1,5 +1,5 @@
-JOB SCOUT FEED generated 2026-11-26T05:11:31+00:00
-Checked 279 of 292 companies. 127 open matches, 14 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-26T20:17:38+00:00
+Checked 279 of 292 companies. 126 open matches, 14 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-24 | Salesforce | Event Marketing Enablement Manager | California - San Francisco; New York - New York; Office - Flexible; United States of America | $117k–194k | 7+ yrs | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Event-Marketing-Enablement-Manager_JR368838
