@@ -1,5 +1,5 @@
-JOB SCOUT FEED generated 2026-11-26T20:17:38+00:00
-Checked 279 of 292 companies. 126 open matches, 14 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-27T05:09:21+00:00
+Checked 279 of 292 companies. 126 open matches, 12 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-24 | Salesforce | Event Marketing Enablement Manager | California - San Francisco; New York - New York; Office - Flexible; United States of America | $117k–194k | 7+ yrs | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Event-Marketing-Enablement-Manager_JR368838
@@ -14,5 +14,3 @@ Each line: posted date | company | title | location | salary | years asked | url
 2026-11-20 | Robinhood | Education Lead | Menlo Park, CA; New York, NY; London, UK; Menlo Park, CA; New York, NY | $113k–170k | 6+ yrs | https://boards.greenhouse.io/robinhood/jobs/8404475?t=gh_src=&gh_jid=8404475
 2026-11-20 | Guardian Life | Service Enablement AI Agent Owner (Hybrid) | Bethlehem; New York; Boston; Pittsfield; Hybrid - In office 3 days per week; United States of America | $101k–166k | yrs n/a | https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/Bethlehem/Service-Enablement-AI-Agent-Owner--Hybrid-_R000110628-1
 2026-11-20 | Databricks | Industry Executive, Intel Community (AI Transformation) | Remote - Washington D.C.; Remote - Virginia | $353k–486k | yrs n/a | https://databricks.com/company/careers/open-positions/job?gh_jid=8948986002
-2026-11-19 | Fox Corporation | Good Day New York Trainee, 6-Month Training Program | New York, New York, USA; Onsite; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034317
-2026-11-19 | Fox Corporation | Good Day New York Trainee, 6-Month Training Program | New York, New York, USA; Onsite; United States of America | Not listed | yrs n/a | https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Good-Day-New-York-Trainee--6-Month-Training-Program_R50034316

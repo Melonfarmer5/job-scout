@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T20:17:38+00:00",
+ "generated": "2026-11-27T05:09:21+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35787,
+ "postings_scanned": 35758,
  "matches": [
   {
    "key": "workday:Salesforce:Event-Marketing-Enablement-Manager_JR368838",
@@ -210,7 +210,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "2026-11-19",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:Fox Corporation:Good-Day-New-York-Trainee--6-Month-Training-Program_R50034316",
@@ -226,7 +226,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "2026-11-19",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:Morgan Stanley:Onboarding-Project-Manager--AVP_PT-JR046885",
@@ -549,6 +549,22 @@
    "fresh": false
   },
   {
+   "key": "greenhouse:Braze:8373990",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
+   "location": "Chicago; New York City",
+   "posted": "2026-11-10",
+   "salary_min": 96000,
+   "salary_max": 150000,
+   "salary": "$96k–150k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
    "key": "greenhouse:Braze:8337945",
    "company": "Braze",
    "ats": "greenhouse",
@@ -575,22 +591,6 @@
    "salary_min": 101000,
    "salary_max": 160000,
    "salary": "$101k–160k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:Braze:8373990",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373990",
-   "location": "Chicago; New York City",
-   "posted": "2026-11-10",
-   "salary_min": 96000,
-   "salary_max": 150000,
-   "salary": "$96k–150k",
    "years": 7,
    "where": "nyc",
    "first_seen": "",
@@ -1413,22 +1413,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Duolingo:8858331002",
-   "company": "Duolingo",
-   "ats": "greenhouse",
-   "title": "Proctor Quality and Learning Manager, Scaling Operations",
-   "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002",
-   "location": "New York, NY; Pittsburgh, PA; New York, NY; Pittsburgh, PA",
-   "posted": "2026-09-30",
-   "salary_min": 142800,
-   "salary_max": 193200,
-   "salary": "$143k–193k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Duolingo:8858333002",
    "company": "Duolingo",
    "ats": "greenhouse",
@@ -1439,6 +1423,22 @@
    "salary_min": 90630,
    "salary_max": 122617,
    "salary": "$91k–123k",
+   "years": null,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Duolingo:8858331002",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Proctor Quality and Learning Manager, Scaling Operations",
+   "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002",
+   "location": "New York, NY; Pittsburgh, PA; New York, NY; Pittsburgh, PA",
+   "posted": "2026-09-30",
+   "salary_min": 142800,
+   "salary_max": 193200,
+   "salary": "$143k–193k",
    "years": null,
    "where": "nyc",
    "first_seen": "",
@@ -1685,22 +1685,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Affirm:7860703003",
-   "company": "Affirm",
-   "ats": "greenhouse",
-   "title": "Operations Enablement Lead",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
-   "location": "Remote US; Remote Canada",
-   "posted": "2026-08-24",
-   "salary_min": 115000,
-   "salary_max": 180000,
-   "salary": "$115k–180k",
-   "years": 5,
-   "where": "remote-us",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Affirm:7860705003",
    "company": "Affirm",
    "ats": "greenhouse",
@@ -1711,6 +1695,22 @@
    "salary_min": 101000,
    "salary_max": 151000,
    "salary": "$101k–151k",
+   "years": 5,
+   "where": "remote-us",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Affirm:7860703003",
+   "company": "Affirm",
+   "ats": "greenhouse",
+   "title": "Operations Enablement Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
+   "location": "Remote US; Remote Canada",
+   "posted": "2026-08-24",
+   "salary_min": 115000,
+   "salary_max": 180000,
+   "salary": "$115k–180k",
    "years": 5,
    "where": "remote-us",
    "first_seen": "",
