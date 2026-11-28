@@ -1,4 +1,4 @@
-JOB SCOUT FEED generated 2026-11-28T04:47:32+00:00
+JOB SCOUT FEED generated 2026-11-28T19:00:58+00:00
 Checked 279 of 292 companies. 123 open matches, 9 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
