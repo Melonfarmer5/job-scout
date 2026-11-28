@@ -1,5 +1,5 @@
-JOB SCOUT FEED generated 2026-11-27T20:03:24+00:00
-Checked 279 of 292 companies. 127 open matches, 13 fresh (last 7 days).
+JOB SCOUT FEED generated 2026-11-28T04:47:32+00:00
+Checked 279 of 292 companies. 123 open matches, 9 fresh (last 7 days).
 Each line: posted date | company | title | location | salary | years asked | url
 
 2026-11-27 | JLL | EHS Training Coordinator | Bangkok, THA; Remote; Thailand | Not listed | yrs n/a | https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangkok-THA/EHS-Training-Coordinator_REQ551617
@@ -11,7 +11,3 @@ Each line: posted date | company | title | location | salary | years asked | url
 2026-11-24 | Abridge | Revenue Enablement Lead | United States - Remote; Remote; United States | $145k–195k | 5+ yrs | https://jobs.ashbyhq.com/Abridge/2e2478eb-7648-4af8-b2a6-1b2b81d4946a
 2026-11-23 | Mizuho Americas | AI Adoption Lead | NYC (1285); United States of America | $112k–220k | 7+ yrs | https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/AI-Adoption-Lead_R7570-3
 2026-11-23 | Justworks | Customer Onboarding Manager | New York, New York; New York, NY | Not listed | 2+ yrs | https://boards.greenhouse.io/justworks/jobs/8404062?gh_jid=8404062
-2026-11-20 | Stripe | AI Transformation Lead, Marketing | San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US; US | Not listed | 5+ yrs | https://stripe.com/jobs/search?gh_jid=8287910
-2026-11-20 | Robinhood | Education Lead | Menlo Park, CA; New York, NY; London, UK; Menlo Park, CA; New York, NY | $113k–170k | 6+ yrs | https://boards.greenhouse.io/robinhood/jobs/8404475?t=gh_src=&gh_jid=8404475
-2026-11-20 | Guardian Life | Service Enablement AI Agent Owner (Hybrid) | Bethlehem; New York; Boston; Pittsfield; Hybrid - In office 3 days per week; United States of America | $101k–166k | yrs n/a | https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/Bethlehem/Service-Enablement-AI-Agent-Owner--Hybrid-_R000110628-1
-2026-11-20 | Databricks | Industry Executive, Intel Community (AI Transformation) | Remote - Washington D.C.; Remote - Virginia | $353k–486k | yrs n/a | https://databricks.com/company/careers/open-positions/job?gh_jid=8948986002

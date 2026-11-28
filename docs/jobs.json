@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T20:03:24+00:00",
+ "generated": "2026-11-28T04:47:32+00:00",
  "companies_checked": 279,
  "companies_total": 292,
- "postings_scanned": 35760,
+ "postings_scanned": 35658,
  "matches": [
   {
    "key": "workday:JLL:EHS-Training-Coordinator_REQ551617",
@@ -162,7 +162,7 @@
    "years": 5,
    "where": "nyc",
    "first_seen": "2026-11-20",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Robinhood:8404475",
@@ -178,7 +178,7 @@
    "years": 6,
    "where": "nyc",
    "first_seen": "2026-11-20",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:Guardian Life:Service-Enablement-AI-Agent-Owner--Hybrid-_R000110628-1",
@@ -194,7 +194,7 @@
    "years": null,
    "where": "nyc",
    "first_seen": "2026-11-21",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "greenhouse:Databricks:8948986002",
@@ -210,7 +210,7 @@
    "years": null,
    "where": "remote?",
    "first_seen": "2026-11-21",
-   "fresh": true
+   "fresh": false
   },
   {
    "key": "workday:Fox Corporation:Good-Day-New-York-Trainee--6-Month-Training-Program_R50034317",
@@ -565,22 +565,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Braze:8373965",
-   "company": "Braze",
-   "ats": "greenhouse",
-   "title": "Product Enablement Manager",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
-   "location": "San Francisco; New York City",
-   "posted": "2026-11-10",
-   "salary_min": 101000,
-   "salary_max": 160000,
-   "salary": "$101k–160k",
-   "years": 7,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Braze:8373990",
    "company": "Braze",
    "ats": "greenhouse",
@@ -591,6 +575,22 @@
    "salary_min": 96000,
    "salary_max": 150000,
    "salary": "$96k–150k",
+   "years": 7,
+   "where": "nyc",
+   "first_seen": "",
+   "fresh": false
+  },
+  {
+   "key": "greenhouse:Braze:8373965",
+   "company": "Braze",
+   "ats": "greenhouse",
+   "title": "Product Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8373965",
+   "location": "San Francisco; New York City",
+   "posted": "2026-11-10",
+   "salary_min": 101000,
+   "salary_max": 160000,
+   "salary": "$101k–160k",
    "years": 7,
    "where": "nyc",
    "first_seen": "",
@@ -1093,22 +1093,6 @@
    "fresh": false
   },
   {
-   "key": "workday:Accenture:Onboarding---Customer-Due-Diligence-Team-Leader-with-German_14842769",
-   "company": "Accenture",
-   "ats": "workday",
-   "title": "Onboarding & Customer Due Diligence Team Leader with German",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bucharest/Onboarding---Customer-Due-Diligence-Team-Leader-with-German_14842769",
-   "location": "Bucharest; Brasov; Timisoara; Remote; Romania",
-   "posted": "2026-10-27",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 3,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Justworks:8265612",
    "company": "Justworks",
    "ats": "greenhouse",
@@ -1429,22 +1413,6 @@
    "fresh": false
   },
   {
-   "key": "greenhouse:Duolingo:8858331002",
-   "company": "Duolingo",
-   "ats": "greenhouse",
-   "title": "Proctor Quality and Learning Manager, Scaling Operations",
-   "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002",
-   "location": "New York, NY; Pittsburgh, PA; New York, NY; Pittsburgh, PA",
-   "posted": "2026-09-30",
-   "salary_min": 142800,
-   "salary_max": 193200,
-   "salary": "$143k–193k",
-   "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
    "key": "greenhouse:Duolingo:8858333002",
    "company": "Duolingo",
    "ats": "greenhouse",
@@ -1461,17 +1429,17 @@
    "fresh": false
   },
   {
-   "key": "workday:Accenture:Life-Sciences-Manager----Commercial-Transformation---Enablement_R00347584",
-   "company": "Accenture",
-   "ats": "workday",
-   "title": "Life Sciences Manager -- Commercial Transformation & Enablement",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Life-Sciences-Manager----Commercial-Transformation---Enablement_R00347584",
-   "location": "New York, One Manhattan West, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Kirkland, 416 6th Street South, Corp; Cincinnati, 4th Street, Corp; Cleveland, 1400 W 10th Street, Corp; Oklahoma City, 525 NW 11th St, Corp; Austin, 323 Congress Avenue, Corp; Albany, 69 State St, Corp; Chicago, Accenture Tower, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; San Francisco, 415 Mission Street, Corp; Morristown, 1 Speedwell Ave, Corp; Denver, 999 18th St, Corp; Boston, 888 Boylston, Corp; Philadelphia, 2001 Market St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Walnut Creek, 1255 Treat Blvd, Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Redmond, 8383 158th Avenue NE, Corp; Bentonville, 805 S Walton Blvd., Corp; Beaverton, 15220 NW Greenbrier, Corp; Nashville, 4101 Charlotte Ave., Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp; United States of America",
-   "posted": "2026-09-29",
-   "salary_min": 80400,
-   "salary_max": 293800,
-   "salary": "$80k–294k",
-   "years": 6,
+   "key": "greenhouse:Duolingo:8858331002",
+   "company": "Duolingo",
+   "ats": "greenhouse",
+   "title": "Proctor Quality and Learning Manager, Scaling Operations",
+   "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002",
+   "location": "New York, NY; Pittsburgh, PA; New York, NY; Pittsburgh, PA",
+   "posted": "2026-09-30",
+   "salary_min": 142800,
+   "salary_max": 193200,
+   "salary": "$143k–193k",
+   "years": null,
    "where": "nyc",
    "first_seen": "",
    "fresh": false
@@ -1600,38 +1568,6 @@
    "salary_max": 180000,
    "salary": "$135k–180k",
    "years": null,
-   "where": "nyc",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "workday:Accenture:Ecosystem-Resale-Enablement-Specialist_14459987",
-   "company": "Accenture",
-   "ats": "workday",
-   "title": "Ecosystem Resale Enablement Specialist",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Ecosystem-Resale-Enablement-Specialist_14459987",
-   "location": "Brussels; Remote; Belgium",
-   "posted": "2026-09-07",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 2,
-   "where": "remote?",
-   "first_seen": "",
-   "fresh": false
-  },
-  {
-   "key": "greenhouse:Gusto:8128422",
-   "company": "Gusto",
-   "ats": "greenhouse",
-   "title": "Senior L&D Specialist",
-   "url": "https://job-boards.greenhouse.io/gusto/jobs/8128422",
-   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Denver, CO - Hybrid",
-   "posted": "2026-09-04",
-   "salary_min": null,
-   "salary_max": null,
-   "salary": "Not listed",
-   "years": 5,
    "where": "nyc",
    "first_seen": "",
    "fresh": false
